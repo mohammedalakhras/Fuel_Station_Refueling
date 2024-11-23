@@ -1,0 +1,103 @@
+############################################################
+#                                                          #
+#                    SIMULATION REPORT                     #
+#                                                          #
+############################################################
+
+Version: SimJava 2.0
+
+Simulation date:         November 29, 2022
+Simulation start time:   5:09:32 PM AST
+Simulation end time:     5:09:32 PM AST
+
+############################################################
+#            Overall simulation run information            #
+############################################################
+
+Total simulated time:    35737.407226718606
+Total transient time:    0.0
+Total steady state time: 35737.407226718606
+Transient condition:     40320.0 units of elapsed simulated time
+Termination condition:   None
+Output analysis method:  None
+
+############################################################
+#               Simulation run measurements                #
+############################################################
+
+------------------------ fuelPump1 -------------------------
+
+- Throughput
+
+Sample mean:          0.012759739314806184
+Event count:          456
+
+- Queue length
+
+Sample mean:          81.72735163424869
+Sample variance:      3667.6300410686626
+Sample std deviation: 60.56096136182667
+Maximum:              197.0
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.1145682633672453
+
+------------------------ fuelPump2 -------------------------
+
+- Throughput
+
+Sample mean:          0.010940916824757056
+Event count:          391
+
+- Queue length
+
+Sample mean:          93.87946785704762
+Sample variance:      3344.4786999939042
+Sample std deviation: 57.8314680774568
+Maximum:              197.0
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.1242726891504041
+
+------------------------ fuelPump3 -------------------------
+
+- Throughput
+
+Sample mean:          0.009877605215189874
+Event count:          353
+
+- Queue length
+
+Sample mean:          96.46033922977452
+Sample variance:      3111.6345026789095
+Sample std deviation: 55.782026699277516
+Maximum:              196.0
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.13066893502642105
+
+------------------------- fuelTank -------------------------
+
+- Throughput
+
+Sample mean:          0.002882134099616309
+Event count:          103
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.8646402298848926
+

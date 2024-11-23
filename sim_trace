@@ -1,0 +1,2607 @@
+u: source at 0.0: pump1 selected 100
+u: fuelPump1 at 13.165855511533525: process 100L 2900L in if
+u: source at 21.387409758384305: pump1 selected 20
+u: source at 24.02476889089703: pump2 selected 65
+u: fuelPump1 at 26.493376951127328: process 20L 2815L in if
+u: fuelPump2 at 37.41391479425055: process 65L 2815L in if
+u: source at 42.76337275692634: pump1 selected 65
+u: fuelPump1 at 53.58795149841687: process 65L 2750L in if
+u: source at 77.24381485869208: pump1 selected 60
+u: fuelPump1 at 86.85529095168992: process 60L 2690L in if
+u: source at 98.94919313432058: pump1 selected 50
+u: fuelPump1 at 106.64380690023775: process 50L 2640L in if
+u: source at 116.51748565510874: pump1 selected 65
+u: source at 124.74979071443154: pump2 selected 85
+u: fuelPump1 at 125.53533275889555: process 65L 2490L in if
+u: source at 138.25959756547877: pump1 selected 35
+u: source at 138.86218822667232: pump3 selected 60
+u: fuelPump2 at 139.46531666386562: process 85L 2395L in if
+u: fuelPump1 at 144.64242895515434: process 35L 2395L in if
+u: source at 145.76472093870302: pump1 selected 75
+u: fuelPump3 at 153.75240810771464: process 60L 2320L in if
+u: fuelPump1 at 155.4670386644501: process 75L 2320L in if
+u: source at 161.29089535538375: pump1 selected 20
+u: fuelPump1 at 167.05049542057088: process 20L 2300L in if
+u: source at 181.91523923559782: pump1 selected 20
+u: fuelPump1 at 187.0861044138222: process 20L 2280L in if
+u: source at 194.9010617662428: pump1 selected 80
+u: source at 196.2331297451599: pump2 selected 55
+u: source at 196.47211633331688: pump3 selected 50
+u: source at 199.0162290662894: pump1 selected 100
+u: source at 200.1036753057437: pump2 selected 10
+u: fuelPump2 at 205.5252954935419: process 55L 2095L in if
+u: fuelPump1 at 207.2817220676774: process 80L 2085L in if
+u: fuelPump2 at 210.03370493635614: process 10L 1985L in if
+u: fuelPump3 at 210.37535418933368: process 50L 1985L in if
+u: source at 219.84809890585797: pump2 selected 80
+u: fuelPump1 at 221.70657763549215: process 100L 1905L in if
+u: source at 229.31601590330686: pump1 selected 5
+u: fuelPump1 at 234.40238781715547: process 5L 1900L in if
+u: fuelPump2 at 235.19263828769508: process 80L 1900L in if
+u: source at 239.466166716741: pump1 selected 5
+u: fuelPump1 at 241.97767255063016: process 5L 1895L in if
+u: source at 269.6840712231095: pump1 selected 70
+u: fuelPump1 at 281.2500485822934: process 70L 1825L in if
+u: source at 289.181685689581: pump1 selected 30
+u: fuelPump1 at 296.63634423944694: process 30L 1795L in if
+u: source at 323.5403341288114: pump1 selected 25
+u: fuelPump1 at 330.384983049247: process 25L 1770L in if
+u: source at 334.9709499233197: pump1 selected 85
+u: fuelPump1 at 348.1126419900515: process 85L 1685L in if
+u: source at 365.7206852138044: pump1 selected 30
+u: fuelPump1 at 372.6920156308261: process 30L 1655L in if
+u: source at 382.3150999065907: pump1 selected 35
+u: fuelPump1 at 391.5285971930449: process 35L 1620L in if
+u: source at 402.27154430757855: pump1 selected 95
+u: source at 410.31969397790226: pump2 selected 50
+u: fuelPump1 at 414.5664394739544: process 95L 1475L in if
+u: fuelPump2 at 421.66077142447494: process 50L 1475L in if
+u: source at 431.95542024229576: pump1 selected 10
+u: fuelPump1 at 435.65123116825345: process 10L 1465L in if
+u: source at 448.4819200562321: pump1 selected 15
+u: fuelPump1 at 450.97231398960923: process 15L 1450L in if
+u: source at 461.28048939108606: pump1 selected 95
+u: source at 472.80105054804676: pump2 selected 55
+u: fuelPump1 at 473.75393653068454: process 95L 1300L in if
+u: fuelPump2 at 488.2222963590303: process 55L 1300L in if
+u: source at 493.0131695811432: pump1 selected 85
+u: source at 497.97238283297145: pump2 selected 95
+u: fuelPump1 at 506.63742570369647: process 85L 1120L in if
+u: fuelPump2 at 513.4386451885559: process 95L 1120L in if
+u: source at 516.0867338190866: pump1 selected 45
+u: source at 518.2256289364233: pump2 selected 5
+u: fuelPump2 at 523.4546002597866: process 5L 1070L in if
+u: fuelPump1 at 524.9170600752893: process 45L 1070L in if
+u: source at 536.7725028322357: pump1 selected 5
+u: fuelPump1 at 541.5932913230822: process 5L 1065L in if
+u: source at 542.135523910143: pump1 selected 10
+u: fuelPump1 at 546.8253345272886: process 10L 1055L in if
+u: source at 548.6392094603461: pump1 selected 90
+u: source at 548.8746988717772: pump2 selected 25
+u: fuelPump2 at 556.4242825256848: process 25L 940L in if
+u: fuelPump1 at 560.2268540505222: process 90L 940L in if
+u: source at 565.8888583592056: pump1 selected 70
+u: source at 573.3322257130678: pump2 selected 55
+u: fuelPump1 at 578.1817129414796: process 70L 815L in if
+u: source at 582.0160161554471: pump1 selected 85
+u: fuelPump2 at 585.3836488944191: process 55L 730L in if
+u: source at 585.9317626754521: pump2 selected 85
+u: fuelPump1 at 594.1316277173825: process 85L 645L in if
+u: fuelPump2 at 599.771027456599: process 85L 645L in if
+u: source at 603.8316887162681: pump1 selected 60
+u: fuelPump1 at 613.3465874913: process 60L 585L in if
+u: source at 644.925783292602: pump1 selected 65
+u: source at 649.28869191635: pump2 selected 5
+u: fuelPump1 at 655.1907894759067: process 65L 515L in if
+u: fuelPump2 at 659.0865215951994: process 5L 515L in if
+u: source at 688.5000623293415: pump1 selected 70
+u: source at 692.8099590714913: pump2 selected 60
+u: fuelPump1 at 701.1703926976436: process 70L 385L in if
+u: source at 705.4434762077988: pump1 selected 20
+u: fuelPump2 at 705.6508414743589: process 60L 365L in if
+u: fuelPump1 at 711.576248182545: process 20L 365L in if
+u: source at 759.0324410195185: pump1 selected 30
+u: fuelPump1 at 764.0603422750679: process 30L 335L in if
+u: source at 778.5894651589399: pump1 selected 40
+u: source at 778.8412691787282: pump2 selected 50
+u: source at 784.296366473931: pump3 selected 100
+u: fuelPump1 at 787.114648443781: process 40L 145L in if
+u: fuelPump2 at 790.2355759199417: process 50L 145L in if
+u: source at 794.577653240555: pump1 selected 100
+u: fuelPump3 at 801.6870742169965: process 100L 45L in if
+u: source at 802.1559853238863: pump2 selected 70
+u: fuelPump2 at 802.1559853238863: orderFuelTank
+u: fuelPump1 at 807.6365492948172: process 100L 45L in if
+u: source at 815.0966426646213: pump1 selected 20
+u: source at 816.8224492778895: pump3 selected 45
+u: fuelPump1 at 818.8976251061242: process 20L 25L in if
+u: source at 834.0784529800488: pump1 selected 55
+u: source at 842.8032456067931: pump1 selected 30
+u: source at 849.8712432221309: pump2 selected 10
+u: source at 860.1606705288546: pump3 selected 30
+u: source at 872.7261531160622: pump1 selected 10
+u: source at 874.2536929505836: pump2 selected 30
+u: source at 880.4074389765444: pump3 selected 25
+u: source at 882.2851052761615: pump1 selected 55
+u: source at 897.1240791677837: pump2 selected 30
+u: source at 904.6262382294008: pump3 selected 40
+u: source at 916.7264615106325: pump1 selected 50
+u: source at 926.2060423480455: pump2 selected 30
+u: source at 936.7017838294314: pump3 selected 100
+u: source at 965.8340893042445: pump1 selected 90
+u: source at 969.7041894383437: pump2 selected 50
+u: source at 1029.8023353280641: pump3 selected 45
+u: source at 1081.405526866567: pump1 selected 100
+u: source at 1101.6386950441602: pump2 selected 70
+u: fuelTank at 1102.1559853238864: DoneFuelTank
+u: fuelPump1 at 1111.1145597272614: process 55L 430L in Else
+u: fuelPump2 at 1113.8575848486194: process 70L 400L in Else
+u: fuelPump3 at 1114.833233331129: process 45L 390L in Else
+u: fuelPump2 at 1118.6160015551045: process 10L 360L in if
+u: fuelPump1 at 1119.4443404068963: process 30L 330L in if
+u: fuelPump3 at 1123.7695644938171: process 30L 320L in if
+u: fuelPump1 at 1125.3041675998122: process 10L 295L in if
+u: fuelPump2 at 1126.4795452075325: process 30L 240L in if
+u: fuelPump1 at 1135.0772441118265: process 55L 210L in if
+u: fuelPump3 at 1136.670037695209: process 25L 160L in if
+u: fuelPump2 at 1138.6231621316472: process 30L 120L in if
+u: fuelPump1 at 1144.153873667879: process 50L 90L in if
+u: fuelPump3 at 1147.6972072917288: process 40L 0L in if
+u: fuelPump3 at 1147.6972072917288: orderFuelTank
+u: fuelPump2 at 1148.7413252755764: process 30L 0L in if
+u: fuelPump1 at 1156.6875828606096: process 90L 0L in if
+u: source at 1183.9516656118158: pump1 selected 40
+u: source at 1195.9147373127232: pump1 selected 50
+u: source at 1205.2241449567557: pump2 selected 65
+u: source at 1215.2287493146878: pump3 selected 85
+u: source at 1215.7113753012136: pump1 selected 20
+u: source at 1240.2048114401025: pump2 selected 65
+u: source at 1243.0133682815758: pump3 selected 70
+u: source at 1264.3515871277086: pump1 selected 45
+u: source at 1294.7473613774282: pump2 selected 90
+u: source at 1298.9638679045443: pump3 selected 95
+u: source at 1309.8591351511836: pump1 selected 10
+u: source at 1312.8453749636112: pump2 selected 25
+u: source at 1333.5008983058565: pump3 selected 70
+u: source at 1365.9437447464527: pump1 selected 80
+u: source at 1374.7662583921774: pump2 selected 95
+u: source at 1376.8207559441694: pump3 selected 85
+u: source at 1388.344655962498: pump1 selected 15
+u: source at 1404.013896747138: pump2 selected 10
+u: source at 1422.4454291033653: pump3 selected 20
+u: source at 1431.831875751478: pump1 selected 90
+u: source at 1442.8674873824668: pump2 selected 85
+u: fuelTank at 1447.6972072917288: DoneFuelTank
+u: fuelPump2 at 1457.5301005444262: process 50L 350L in Else
+u: fuelPump3 at 1461.8636955209308: process 100L 280L in Else
+u: fuelPump1 at 1464.5065104706891: process 100L 235L in Else
+u: source at 1466.624650085858: pump3 selected 5
+u: fuelPump2 at 1469.8232143628252: process 70L 195L in if
+u: fuelPump1 at 1474.0987785011525: process 40L 130L in if
+u: fuelPump3 at 1476.1632322270364: process 45L 80L in if
+u: fuelPump3 at 1476.1632322270364: orderFuelTank
+u: fuelPump1 at 1482.0417112526097: process 50L 80L in if
+u: fuelPump2 at 1482.8013574940371: process 65L 60L in if
+u: source at 1483.7149864396472: pump1 selected 30
+u: source at 1487.2896751666315: pump2 selected 75
+u: fuelPump1 at 1488.1089894690342: process 20L 60L in if
+u: source at 1493.8158532912462: pump1 selected 50
+u: fuelPump1 at 1495.7064691070714: process 45L 15L in if
+u: fuelPump1 at 1501.0880835657645: process 10L 5L in if
+u: source at 1514.0549266650444: pump1 selected 100
+u: source at 1532.8424368624565: pump1 selected 75
+u: source at 1554.0595899853101: pump1 selected 95
+u: source at 1571.9520414243316: pump2 selected 10
+u: source at 1573.346551657657: pump3 selected 50
+u: source at 1592.0149564991639: pump1 selected 55
+u: source at 1593.2000506022202: pump2 selected 95
+u: source at 1594.1286257358631: pump3 selected 80
+u: source at 1634.9700755938175: pump1 selected 90
+u: source at 1654.717360339219: pump2 selected 70
+u: source at 1657.7957465305324: pump3 selected 25
+u: source at 1664.361432137877: pump1 selected 5
+u: source at 1665.7182699238267: pump2 selected 85
+u: source at 1671.6040823591975: pump3 selected 95
+u: source at 1672.5519611995355: pump1 selected 50
+u: source at 1722.0136854865393: pump2 selected 70
+u: source at 1741.0158541432925: pump3 selected 45
+u: source at 1763.3322620208771: pump1 selected 10
+u: source at 1773.5559910749698: pump2 selected 65
+u: fuelTank at 1776.1632322270364: DoneFuelTank
+u: source at 1781.7008701939485: pump3 selected 90
+u: fuelPump1 at 1787.4248271992328: process 80L 370L in Else
+u: fuelPump2 at 1791.0979834450382: process 65L 355L in Else
+u: fuelPump1 at 1792.2449642680504: process 15L 265L in if
+u: fuelPump3 at 1794.0669819643292: process 85L 175L in Else
+u: fuelPump2 at 1804.694135341494: process 90L 105L in if
+u: fuelPump1 at 1806.4533565807458: process 90L 80L in if
+u: fuelPump3 at 1810.6640402287205: process 70L 50L in if
+u: fuelPump3 at 1810.6640402287205: orderFuelTank
+u: fuelPump1 at 1813.1811886447188: process 30L 50L in if
+u: fuelPump2 at 1814.2197352923151: process 25L 0L in if
+u: source at 1814.3275715233538: pump1 selected 40
+u: fuelPump1 at 1820.8862378028525: process 50L 0L in if
+u: source at 1843.470810293558: pump1 selected 25
+u: source at 1863.3206295904752: pump1 selected 45
+u: source at 1883.3945616841484: pump2 selected 5
+u: source at 1885.6651255793713: pump1 selected 75
+u: source at 1891.382550955658: pump2 selected 90
+u: source at 1916.0665775004577: pump3 selected 5
+u: source at 1920.8140428773672: pump1 selected 90
+u: source at 1924.4692794977639: pump2 selected 25
+u: source at 1953.5628211168103: pump3 selected 45
+u: source at 1958.7827364475: pump1 selected 80
+u: source at 1979.994045197554: pump2 selected 60
+u: source at 1983.1798305278555: pump3 selected 80
+u: source at 1989.6829264635223: pump1 selected 30
+u: source at 2003.4132573871484: pump2 selected 100
+u: source at 2039.5786607892042: pump3 selected 40
+u: source at 2055.802873757561: pump1 selected 90
+u: source at 2079.657715703034: pump2 selected 25
+u: source at 2107.652080672488: pump3 selected 60
+u: fuelTank at 2110.6640402287203: DoneFuelTank
+u: source at 2118.0448728365714: pump1 selected 10
+u: source at 2120.897029815638: pump2 selected 25
+u: fuelPump2 at 2124.482094634116: process 95L 310L in Else
+u: fuelPump1 at 2125.7330107154394: process 100L 300L in Else
+u: fuelPump3 at 2128.9882839561164: process 95L 225L in Else
+u: fuelPump2 at 2132.0950229151: process 10L 155L in if
+u: fuelPump1 at 2139.002343586883: process 75L 70L in if
+u: fuelPump1 at 2139.002343586883: orderFuelTank
+u: fuelPump3 at 2144.5109153039443: process 70L 70L in if
+u: fuelPump2 at 2147.8025816163345: process 85L 70L in if
+u: source at 2148.4269666965342: pump2 selected 30
+u: source at 2208.616112372165: pump3 selected 45
+u: source at 2223.3128652755477: pump1 selected 5
+u: source at 2233.7590184586943: pump2 selected 65
+u: source at 2248.7705969707886: pump3 selected 55
+u: source at 2249.1410082903294: pump1 selected 25
+u: source at 2255.73860094129: pump2 selected 35
+u: source at 2268.260447099739: pump3 selected 20
+u: source at 2275.1504307962914: pump1 selected 85
+u: source at 2303.8993775741606: pump2 selected 15
+u: source at 2307.045982698856: pump3 selected 5
+u: source at 2343.951587552333: pump1 selected 65
+u: source at 2362.2248109156435: pump2 selected 60
+u: source at 2373.551319983158: pump3 selected 95
+u: source at 2376.278828998237: pump1 selected 85
+u: source at 2383.705531694131: pump2 selected 10
+u: source at 2401.454875110545: pump3 selected 100
+u: source at 2404.2052977727712: pump1 selected 95
+u: source at 2407.7201402487226: pump2 selected 50
+u: source at 2417.3714927945734: pump3 selected 35
+u: source at 2425.130524326111: pump1 selected 25
+u: source at 2437.8345362048776: pump2 selected 45
+u: fuelTank at 2439.002343586883: DoneFuelTank
+u: fuelPump1 at 2452.3731082846834: process 95L 345L in Else
+u: fuelPump2 at 2453.273499005917: process 75L 290L in Else
+u: fuelPump3 at 2456.895732493784: process 85L 280L in Else
+u: source at 2458.782418087057: pump3 selected 65
+u: fuelPump2 at 2460.194230366306: process 10L 260L in if
+u: fuelPump1 at 2462.1321785720756: process 55L 165L in if
+u: source at 2467.5861635712645: pump1 selected 30
+u: fuelPump3 at 2467.6506950821245: process 20L 75L in if
+u: fuelPump2 at 2473.585944498338: process 95L 70L in if
+u: fuelPump1 at 2474.487782659302: process 90L 0L in if
+u: fuelPump1 at 2474.487782659302: orderFuelTank
+u: fuelPump3 at 2476.307427643008: process 5L 0L in if
+u: source at 2481.7363052469354: pump2 selected 5
+u: fuelPump2 at 2484.737638126155: process 70L 0L in if
+u: source at 2523.681710945676: pump2 selected 60
+u: source at 2535.9762519719898: pump3 selected 10
+u: source at 2575.9233454925916: pump1 selected 40
+u: source at 2604.0038697618193: pump2 selected 30
+u: source at 2639.077343132685: pump3 selected 5
+u: source at 2643.7509477306185: pump1 selected 5
+u: source at 2651.333349198142: pump2 selected 60
+u: source at 2668.373568831687: pump3 selected 15
+u: source at 2697.2947172485697: pump1 selected 85
+u: source at 2707.4991737065966: pump2 selected 55
+u: source at 2743.324453202361: pump3 selected 85
+u: source at 2744.726000012529: pump1 selected 100
+u: source at 2749.241365181154: pump2 selected 25
+u: source at 2749.4693152238524: pump3 selected 20
+u: fuelTank at 2774.487782659302: DoneFuelTank
+u: source at 2780.3265248332686: pump1 selected 35
+u: fuelPump1 at 2782.016466716339: process 5L 460L in Else
+u: fuelPump2 at 2787.88661343155: process 85L 410L in Else
+u: fuelPump3 at 2788.4679709594548: process 50L 340L in Else
+u: fuelPump1 at 2789.819085350949: process 50L 260L in if
+u: fuelPump1 at 2794.6124018334776: process 10L 250L in if
+u: fuelPump1 at 2801.7551375026787: process 40L 210L in if
+u: fuelPump2 at 2803.3379337961064: process 70L 185L in if
+u: fuelPump3 at 2804.0910692626735: process 80L 120L in if
+u: source at 2806.4631289350777: pump1 selected 90
+u: fuelPump1 at 2808.399864545414: process 25L 95L in if
+u: source at 2811.967751128478: pump1 selected 30
+u: fuelPump3 at 2813.003213907351: process 25L 50L in if
+u: fuelPump3 at 2813.003213907351: orderFuelTank
+u: source at 2814.215999865587: pump3 selected 35
+u: fuelPump2 at 2814.7762867217034: process 65L 50L in if
+u: source at 2815.3712210993144: pump2 selected 30
+u: fuelPump1 at 2816.2534768760515: process 45L 45L in if
+u: fuelPump2 at 2820.8322886924607: process 5L 45L in if
+u: source at 2824.5357583691234: pump1 selected 40
+u: source at 2868.5325713130023: pump2 selected 20
+u: source at 2902.2300835311453: pump1 selected 55
+u: source at 2924.557149643829: pump2 selected 65
+u: source at 2946.1519555775944: pump3 selected 85
+u: source at 2948.945759279298: pump1 selected 35
+u: source at 2954.455295766483: pump2 selected 70
+u: source at 2962.5784618075595: pump3 selected 30
+u: source at 2980.7109240194327: pump1 selected 55
+u: source at 2983.3957629624056: pump2 selected 60
+u: source at 2989.7874109360046: pump3 selected 55
+u: source at 2992.49671498144: pump1 selected 55
+u: source at 2996.7938864201765: pump2 selected 30
+u: source at 2997.418111169121: pump3 selected 75
+u: source at 3001.5388761568097: pump1 selected 45
+u: source at 3011.5274482666396: pump2 selected 30
+u: source at 3039.8218505680866: pump3 selected 70
+u: source at 3049.308770616184: pump1 selected 30
+u: source at 3074.1872841974437: pump2 selected 50
+u: source at 3078.76325901972: pump3 selected 10
+u: source at 3081.5132116045743: pump1 selected 25
+u: fuelTank at 3113.003213907351: DoneFuelTank
+u: source at 3122.3865129999626: pump2 selected 30
+u: fuelPump1 at 3126.762437197966: process 75L 340L in Else
+u: fuelPump3 at 3129.859496893802: process 95L 250L in Else
+u: fuelPump2 at 3130.6270229295183: process 90L 205L in Else
+u: fuelPump1 at 3138.0601736919944: process 90L 180L in if
+u: fuelPump2 at 3142.230714092723: process 25L 100L in if
+u: fuelPump3 at 3144.1301604956534: process 45L 40L in if
+u: fuelPump3 at 3144.1301604956534: orderFuelTank
+u: source at 3147.5716137909585: pump3 selected 30
+u: fuelPump1 at 3150.846069884502: process 80L 40L in if
+u: fuelPump2 at 3151.4247372507007: process 60L 10L in if
+u: fuelPump1 at 3157.1801930208735: process 30L 10L in if
+u: source at 3160.597986704379: pump1 selected 5
+u: source at 3161.0210694893985: pump1 selected 65
+u: source at 3163.1100428817836: pump2 selected 25
+u: source at 3168.941515239092: pump1 selected 30
+u: source at 3171.430211481023: pump2 selected 15
+u: source at 3196.6776865297857: pump3 selected 35
+u: source at 3200.8779437212233: pump1 selected 75
+u: source at 3221.9067073973: pump2 selected 40
+u: source at 3229.4943767694576: pump3 selected 60
+u: source at 3231.871457738206: pump1 selected 65
+u: source at 3241.2799836374015: pump2 selected 70
+u: source at 3253.3440558711964: pump3 selected 90
+u: source at 3287.3962013025157: pump1 selected 35
+u: source at 3295.9736639886746: pump2 selected 50
+u: source at 3305.2368024346965: pump3 selected 50
+u: source at 3310.340102613455: pump1 selected 70
+u: source at 3346.510333085665: pump2 selected 15
+u: source at 3351.908997867301: pump3 selected 40
+u: source at 3377.1497384383283: pump1 selected 95
+u: source at 3378.6815489900023: pump2 selected 45
+u: source at 3379.5583934825518: pump3 selected 70
+u: source at 3379.6499129953518: pump1 selected 95
+u: source at 3404.567520185908: pump2 selected 30
+u: source at 3415.2077919925937: pump3 selected 65
+u: source at 3423.934607353601: pump1 selected 50
+u: source at 3425.065407978885: pump2 selected 85
+u: fuelTank at 3444.1301604956534: DoneFuelTank
+u: fuelPump1 at 3457.593544504014: process 90L 320L in Else
+u: fuelPump2 at 3460.364519049119: process 100L 310L in Else
+u: fuelPump3 at 3461.3214531448843: process 90L 285L in Else
+u: fuelPump1 at 3464.119854740071: process 10L 280L in if
+u: source at 3464.699652998678: pump1 selected 35
+u: fuelPump2 at 3466.578917063685: process 25L 275L in if
+u: fuelPump1 at 3468.9824415638896: process 5L 250L in if
+u: fuelPump3 at 3469.514551965484: process 5L 225L in if
+u: fuelPump1 at 3475.162860685469: process 25L 180L in if
+u: fuelPump2 at 3476.9964277994395: process 25L 95L in if
+u: source at 3480.2513354580396: pump1 selected 75
+u: fuelPump3 at 3481.096916402746: process 45L 65L in if
+u: fuelPump3 at 3481.096916402746: orderFuelTank
+u: fuelPump1 at 3486.284226661421: process 85L 65L in if
+u: fuelPump2 at 3487.554058773956: process 30L 0L in if
+u: fuelPump1 at 3499.46118741059: process 65L 0L in if
+u: source at 3522.702678013394: pump1 selected 35
+u: source at 3537.5494762111794: pump2 selected 10
+u: source at 3547.3112090229747: pump3 selected 60
+u: source at 3610.1519955290937: pump1 selected 75
+u: source at 3612.706087309253: pump2 selected 60
+u: source at 3614.1846035291737: pump3 selected 70
+u: source at 3645.504958503447: pump1 selected 35
+u: source at 3661.734115758654: pump2 selected 60
+u: source at 3669.3368322898064: pump3 selected 90
+u: source at 3671.230795558655: pump1 selected 85
+u: source at 3690.7379870866785: pump2 selected 45
+u: source at 3692.606296138919: pump3 selected 80
+u: source at 3696.824776358636: pump1 selected 15
+u: source at 3704.1332349595273: pump2 selected 20
+u: source at 3715.4712259395337: pump3 selected 75
+u: source at 3723.7494016124615: pump1 selected 10
+u: source at 3725.34379904341: pump2 selected 65
+u: source at 3740.501219783542: pump3 selected 95
+u: source at 3742.9450287298737: pump1 selected 35
+u: source at 3753.0626336698847: pump2 selected 5
+u: source at 3766.447801543254: pump3 selected 10
+u: fuelTank at 3781.096916402746: DoneFuelTank
+u: fuelPump2 at 3793.5526554603803: process 65L 370L in Else
+u: fuelPump1 at 3795.3781521092096: process 85L 335L in Else
+u: fuelPump3 at 3799.202273266868: process 80L 240L in Else
+u: fuelPump2 at 3801.6388773118915: process 35L 200L in if
+u: fuelPump2 at 3809.3433398162747: process 15L 185L in if
+u: fuelPump3 at 3809.6264923234057: process 40L 125L in if
+u: fuelPump1 at 3809.809441948097: process 95L 65L in if
+u: fuelPump1 at 3814.244128783843: process 25L 40L in if
+u: fuelPump2 at 3820.617286508403: process 60L 10L in if
+u: source at 3821.2056818026363: pump2 selected 95
+u: fuelPump1 at 3821.3976093002866: process 30L 0L in if
+u: fuelPump1 at 3821.3976093002866: orderFuelTank
+u: fuelPump3 at 3822.7430023555526: process 60L 0L in if
+u: source at 3823.014842855332: pump1 selected 85
+u: source at 3823.590420400037: pump1 selected 85
+u: source at 3825.812532787016: pump2 selected 35
+u: fuelPump2 at 3828.5617885635615: process 10L 0L in if
+u: source at 3865.853989420581: pump2 selected 65
+u: source at 3871.8368807439897: pump3 selected 25
+u: source at 3874.2641669696477: pump1 selected 70
+u: source at 3909.844905846977: pump2 selected 85
+u: source at 3925.766331997312: pump3 selected 20
+u: source at 3990.647847450385: pump1 selected 100
+u: source at 4004.2521678372214: pump2 selected 20
+u: source at 4004.452481486504: pump3 selected 40
+u: source at 4008.9658064654886: pump1 selected 40
+u: source at 4023.930745863709: pump2 selected 90
+u: source at 4026.4091170279926: pump3 selected 95
+u: source at 4036.457165175447: pump1 selected 40
+u: source at 4060.8099016098413: pump2 selected 60
+u: source at 4074.2430088761853: pump3 selected 65
+u: source at 4075.42228621692: pump1 selected 30
+u: source at 4085.4162798575426: pump2 selected 30
+u: source at 4120.785441538803: pump3 selected 95
+u: fuelTank at 4121.397609300287: DoneFuelTank
+u: fuelPump3 at 4131.498990930315: process 45L 465L in Else
+u: fuelPump1 at 4132.249776717494: process 40L 410L in Else
+u: fuelPump2 at 4133.515635783114: process 50L 405L in Else
+u: fuelPump1 at 4136.1992223872685: process 5L 360L in if
+u: source at 4139.621625960787: pump1 selected 45
+u: fuelPump2 at 4144.468455590368: process 45L 275L in if
+u: fuelPump3 at 4144.630778163876: process 55L 270L in if
+u: fuelPump1 at 4148.522427209011: process 85L 250L in if
+u: fuelPump2 at 4152.4743283091675: process 5L 150L in if
+u: fuelPump3 at 4154.5769314674335: process 20L 90L in if
+u: source at 4160.553872958713: pump2 selected 35
+u: fuelPump1 at 4162.342231544294: process 100L 85L in if
+u: fuelPump3 at 4163.334030201492: process 5L 50L in if
+u: fuelPump3 at 4163.334030201492: orderFuelTank
+u: source at 4164.678461572294: pump3 selected 75
+u: fuelPump2 at 4165.9199649723505: process 60L 50L in if
+u: fuelPump1 at 4168.398801879572: process 35L 20L in if
+u: source at 4173.6709066450285: pump1 selected 75
+u: fuelPump2 at 4175.088349027676: process 30L 20L in if
+u: source at 4214.735323286468: pump2 selected 90
+u: source at 4220.550885882532: pump1 selected 100
+u: source at 4251.184810475819: pump2 selected 85
+u: source at 4262.282539339143: pump3 selected 75
+u: source at 4269.413316745484: pump1 selected 35
+u: source at 4270.820144281169: pump2 selected 5
+u: source at 4273.985101742348: pump3 selected 70
+u: source at 4281.315377949428: pump1 selected 80
+u: source at 4291.728677684895: pump2 selected 5
+u: source at 4304.748585183272: pump3 selected 35
+u: source at 4400.435828414437: pump1 selected 75
+u: source at 4422.344782333703: pump2 selected 35
+u: source at 4455.886367881342: pump3 selected 95
+u: fuelTank at 4463.334030201492: DoneFuelTank
+u: source at 4474.320063323983: pump1 selected 60
+u: fuelPump1 at 4476.490799525994: process 90L 355L in Else
+u: fuelPump2 at 4478.559167744947: process 60L 325L in Else
+u: fuelPump3 at 4480.655922944696: process 95L 270L in Else
+u: fuelPump1 at 4484.800180402701: process 30L 170L in if
+u: fuelPump2 at 4490.50032767558: process 55L 130L in if
+u: fuelPump1 at 4493.520563723209: process 40L 105L in if
+u: fuelPump3 at 4499.770908238624: process 100L 50L in if
+u: fuelPump2 at 4499.855662113034: process 25L 15L in if
+u: fuelPump2 at 4499.855662113034: orderFuelTank
+u: source at 4501.3130715920715: pump2 selected 95
+u: fuelPump1 at 4501.421658040014: process 55L 15L in if
+u: fuelPump3 at 4511.047264912862: process 35L 15L in if
+u: source at 4545.509046728164: pump1 selected 5
+u: source at 4546.14376683886: pump3 selected 25
+u: source at 4550.4768158969955: pump1 selected 60
+u: source at 4594.323583925386: pump2 selected 60
+u: source at 4602.5518579217705: pump3 selected 95
+u: source at 4665.007704134712: pump1 selected 40
+u: source at 4668.887998042696: pump2 selected 80
+u: source at 4672.376411862335: pump3 selected 75
+u: source at 4694.084573151802: pump1 selected 65
+u: source at 4699.342924522844: pump2 selected 5
+u: source at 4699.688294083551: pump3 selected 25
+u: source at 4746.123764062843: pump1 selected 35
+u: source at 4792.975945547263: pump2 selected 55
+u: source at 4798.542460528037: pump3 selected 95
+u: fuelTank at 4799.855662113034: DoneFuelTank
+u: fuelPump2 at 4808.989592644739: process 30L 470L in Else
+u: fuelPump1 at 4810.139780801125: process 35L 450L in Else
+u: fuelPump3 at 4812.1923161931645: process 65L 395L in Else
+u: fuelPump2 at 4819.013460270421: process 20L 385L in if
+u: fuelPump1 at 4820.285387895571: process 55L 320L in if
+u: fuelPump3 at 4821.128678700248: process 10L 265L in if
+u: fuelPump2 at 4829.309450647896: process 65L 260L in if
+u: fuelPump3 at 4829.322379038992: process 5L 190L in if
+u: source at 4830.123653694297: pump2 selected 65
+u: fuelPump1 at 4831.219354889492: process 55L 175L in if
+u: source at 4835.027518623686: pump1 selected 20
+u: fuelPump3 at 4836.30392182748: process 15L 130L in if
+u: fuelPump1 at 4837.228726441125: process 45L 45L in if
+u: source at 4841.666172962061: pump3 selected 60
+u: fuelPump2 at 4841.803501695004: process 70L 15L in if
+u: fuelPump2 at 4841.803501695004: orderFuelTank
+u: fuelPump1 at 4844.219122240062: process 30L 15L in if
+u: fuelPump3 at 4851.656487617329: process 85L 15L in if
+u: source at 4854.509414624275: pump1 selected 50
+u: source at 4857.663406096032: pump3 selected 55
+u: source at 4860.31326575923: pump1 selected 90
+u: source at 4860.600244774914: pump2 selected 35
+u: source at 4866.234492293662: pump3 selected 30
+u: source at 4888.461549774477: pump1 selected 25
+u: source at 4904.187304935268: pump2 selected 25
+u: source at 4904.2452474127895: pump3 selected 75
+u: source at 4942.730213263903: pump1 selected 25
+u: source at 4942.994034278649: pump2 selected 95
+u: source at 4947.0576802506: pump3 selected 85
+u: source at 4963.4054914059025: pump1 selected 50
+u: source at 4968.597900589958: pump2 selected 5
+u: source at 4975.397319271895: pump3 selected 70
+u: source at 5017.7848552109745: pump1 selected 75
+u: source at 5022.937917394506: pump2 selected 70
+u: source at 5026.694234131878: pump3 selected 10
+u: source at 5039.501812063422: pump1 selected 55
+u: source at 5057.50602234687: pump2 selected 75
+u: source at 5070.620429412529: pump3 selected 5
+u: source at 5071.307064508662: pump1 selected 20
+u: source at 5077.688573835976: pump2 selected 55
+u: source at 5120.7279197663565: pump3 selected 5
+u: fuelTank at 5141.803501695004: DoneFuelTank
+u: source at 5142.6848281288785: pump1 selected 55
+u: fuelPump1 at 5148.2366356489265: process 25L 495L in Else
+u: fuelPump1 at 5150.8567638867635: process 5L 490L in if
+u: fuelPump3 at 5151.111215200398: process 20L 425L in Else
+u: source at 5155.209644565506: pump1 selected 30
+u: fuelPump2 at 5157.090765336842: process 60L 390L in Else
+u: source at 5157.758243500439: pump2 selected 80
+u: fuelPump1 at 5159.2902464698345: process 65L 360L in if
+u: fuelPump3 at 5163.260134057321: process 35L 330L in if
+u: source at 5163.555821324497: pump3 selected 75
+u: source at 5163.810236488785: pump1 selected 30
+u: fuelPump2 at 5164.835708286761: process 30L 245L in if
+u: fuelPump1 at 5165.438843035048: process 30L 215L in if
+u: source at 5168.847839643241: pump1 selected 85
+u: fuelPump2 at 5174.008969060346: process 30L 140L in if
+u: fuelPump1 at 5175.4307889730435: process 75L 90L in if
+u: fuelPump3 at 5176.871842790051: process 85L 25L in if
+u: fuelPump3 at 5176.871842790051: orderFuelTank
+u: fuelPump2 at 5183.297691206958: process 50L 25L in if
+u: fuelPump1 at 5186.2871940788855: process 65L 25L in if
+u: source at 5200.414771291194: pump2 selected 10
+u: source at 5221.708294618752: pump1 selected 25
+u: source at 5272.990360303094: pump2 selected 50
+u: source at 5293.736269697033: pump3 selected 45
+u: source at 5297.619554779425: pump1 selected 55
+u: source at 5314.519769405736: pump2 selected 80
+u: source at 5340.405375373024: pump3 selected 95
+u: source at 5355.970106537868: pump1 selected 75
+u: source at 5361.431215798473: pump2 selected 100
+u: source at 5431.429666261705: pump3 selected 85
+u: source at 5446.317355711649: pump1 selected 40
+u: source at 5465.755493892747: pump2 selected 40
+u: source at 5470.049486405499: pump3 selected 10
+u: fuelTank at 5476.871842790051: DoneFuelTank
+u: fuelPump1 at 5484.006170247824: process 35L 505L in Else
+u: fuelPump2 at 5486.816701437663: process 30L 435L in Else
+u: fuelPump3 at 5488.617155189819: process 30L 410L in Else
+u: fuelPump1 at 5493.862936739349: process 70L 355L in if
+u: fuelPump2 at 5497.092096929468: process 25L 260L in if
+u: fuelPump2 at 5503.487572353674: process 15L 245L in if
+u: fuelPump3 at 5504.260886953636: process 55L 205L in if
+u: fuelPump1 at 5509.185694958865: process 95L 130L in if
+u: fuelPump2 at 5513.6834993930825: process 40L 35L in if
+u: fuelPump2 at 5513.6834993930825: orderFuelTank
+u: source at 5518.667696260161: pump2 selected 25
+u: fuelPump3 at 5519.706461536175: process 75L 35L in if
+u: fuelPump1 at 5521.4709446281695: process 95L 35L in if
+u: source at 5522.104311258141: pump1 selected 90
+u: source at 5554.380179345268: pump1 selected 50
+u: source at 5565.7056700855555: pump2 selected 10
+u: source at 5593.52969184174: pump3 selected 30
+u: source at 5602.096798356567: pump1 selected 10
+u: source at 5609.283555934288: pump2 selected 55
+u: source at 5609.653585547126: pump3 selected 70
+u: source at 5624.426324479813: pump1 selected 45
+u: source at 5691.095748857789: pump2 selected 20
+u: source at 5709.024851949454: pump3 selected 35
+u: source at 5716.379704504136: pump1 selected 100
+u: source at 5718.989236324332: pump2 selected 60
+u: source at 5725.8453170393595: pump3 selected 65
+u: source at 5726.822319522015: pump1 selected 20
+u: source at 5731.969796991427: pump2 selected 40
+u: source at 5745.9815677656625: pump3 selected 60
+u: source at 5758.939122230208: pump1 selected 40
+u: source at 5771.439907708421: pump2 selected 70
+u: source at 5782.666486308018: pump3 selected 65
+u: source at 5794.943364380821: pump1 selected 15
+u: fuelTank at 5813.6834993930825: DoneFuelTank
+u: source at 5820.777415862052: pump2 selected 45
+u: fuelPump1 at 5824.458847239545: process 50L 410L in Else
+u: fuelPump2 at 5827.055569053828: process 70L 375L in Else
+u: source at 5829.665629235514: pump1 selected 65
+u: fuelPump1 at 5830.76643406098: process 35L 325L in if
+u: fuelPump3 at 5833.221216906211: process 70L 250L in Else
+u: fuelPump2 at 5837.929427835425: process 50L 240L in if
+u: fuelPump1 at 5839.664369664853: process 75L 225L in if
+u: fuelPump3 at 5841.899982838171: process 10L 190L in if
+u: fuelPump2 at 5844.713766407511: process 15L 160L in if
+u: fuelPump1 at 5845.565629638193: process 35L 115L in if
+u: fuelPump3 at 5854.051796563486: process 30L 40L in if
+u: fuelPump1 at 5856.510226615318: process 75L 5L in if
+u: fuelPump1 at 5856.510226615318: orderFuelTank
+u: source at 5857.1496469978265: pump1 selected 65
+u: fuelPump2 at 5857.868754135202: process 45L 5L in if
+u: source at 5863.51234877789: pump2 selected 75
+u: fuelPump3 at 5865.828647296531: process 35L 5L in if
+u: source at 5881.714524226308: pump3 selected 10
+u: source at 5883.579525909835: pump3 selected 30
+u: source at 5904.806689302713: pump1 selected 40
+u: source at 5909.042140932711: pump2 selected 75
+u: source at 5921.965253695487: pump3 selected 80
+u: source at 5922.945768154707: pump1 selected 10
+u: source at 5924.226808939756: pump2 selected 95
+u: source at 5974.49577336722: pump3 selected 80
+u: source at 5999.3071692244: pump1 selected 70
+u: source at 6001.450164544217: pump2 selected 90
+u: source at 6013.90725760625: pump3 selected 75
+u: source at 6067.898765780302: pump1 selected 20
+u: source at 6069.008968851857: pump2 selected 5
+u: source at 6112.103455449313: pump3 selected 40
+u: source at 6117.394649788401: pump1 selected 20
+u: source at 6122.8223600758365: pump2 selected 75
+u: fuelTank at 6156.510226615318: DoneFuelTank
+u: fuelPump1 at 6164.960414521756: process 35L 475L in Else
+u: fuelPump2 at 6165.857895293023: process 30L 390L in Else
+u: fuelPump3 at 6171.60323731162: process 60L 305L in Else
+u: source at 6174.579091349947: pump3 selected 40
+u: fuelPump2 at 6179.21284481747: process 85L 215L in if
+u: fuelPump1 at 6179.591074595614: process 85L 205L in if
+u: fuelPump2 at 6183.813489895545: process 10L 190L in if
+u: fuelPump1 at 6185.781016747102: process 15L 130L in if
+u: fuelPump3 at 6187.826163211286: process 90L 120L in if
+u: fuelPump1 at 6190.884491766926: process 10L 70L in if
+u: fuelPump2 at 6194.255399040727: process 60L 35L in if
+u: fuelPump2 at 6194.255399040727: orderFuelTank
+u: fuelPump1 at 6197.950238449751: process 35L 35L in if
+u: source at 6199.265513533807: pump1 selected 55
+u: fuelPump3 at 6202.849616449434: process 50L 35L in if
+u: source at 6207.035950732052: pump1 selected 75
+u: source at 6252.96301695664: pump2 selected 10
+u: source at 6268.266402732413: pump1 selected 95
+u: source at 6284.063483023938: pump2 selected 50
+u: source at 6324.9014787239885: pump3 selected 20
+u: source at 6337.545480739005: pump1 selected 45
+u: source at 6338.915870346054: pump2 selected 20
+u: source at 6353.489873137273: pump3 selected 80
+u: source at 6358.94007670125: pump1 selected 100
+u: source at 6365.5293073444645: pump2 selected 70
+u: source at 6395.50735672351: pump3 selected 85
+u: source at 6436.026291737209: pump1 selected 80
+u: source at 6451.230266607448: pump2 selected 20
+u: source at 6490.019812865266: pump3 selected 60
+u: fuelTank at 6494.255399040727: DoneFuelTank
+u: fuelPump1 at 6504.78434675028: process 85L 415L in Else
+u: fuelPump3 at 6504.900980708179: process 40L 330L in Else
+u: fuelPump2 at 6508.257638020505: process 60L 260L in Else
+u: source at 6515.410876582052: pump1 selected 65
+u: fuelPump2 at 6516.505630774279: process 45L 215L in if
+u: fuelPump1 at 6519.445783188451: process 85L 195L in if
+u: fuelPump3 at 6519.795229161942: process 70L 125L in if
+u: fuelPump2 at 6526.131534635839: process 20L 60L in if
+u: fuelPump2 at 6526.131534635839: orderFuelTank
+u: fuelPump1 at 6527.952417853263: process 70L 60L in if
+u: fuelPump3 at 6532.257428732863: process 65L 60L in if
+u: source at 6540.764835651803: pump2 selected 100
+u: fuelPump3 at 6545.93896654389: process 60L 0L in if
+u: source at 6573.442859538181: pump3 selected 35
+u: source at 6594.875915511649: pump3 selected 55
+u: source at 6601.6230760636545: pump1 selected 5
+u: source at 6628.585435289042: pump2 selected 10
+u: source at 6650.613449301063: pump3 selected 55
+u: source at 6668.214201217757: pump1 selected 20
+u: source at 6695.077915461613: pump2 selected 95
+u: source at 6714.052741804444: pump3 selected 15
+u: source at 6736.913481369829: pump1 selected 60
+u: source at 6751.0523048267005: pump2 selected 45
+u: source at 6754.631330575401: pump3 selected 95
+u: source at 6758.682929654856: pump1 selected 25
+u: fuelTank at 6826.131534635839: DoneFuelTank
+u: source at 6826.928811272356: pump2 selected 85
+u: source at 6837.346811641269: pump3 selected 20
+u: fuelPump2 at 6840.2307832043425: process 65L 365L in Else
+u: fuelPump1 at 6841.68615689666: process 100L 360L in Else
+u: fuelPump3 at 6842.282316584688: process 70L 320L in Else
+u: fuelPump2 at 6845.990567758894: process 5L 230L in if
+u: fuelPump1 at 6848.292295965078: process 40L 135L in if
+u: fuelPump1 at 6855.800105944758: process 40L 95L in if
+u: fuelPump3 at 6856.840810391433: process 90L 65L in if
+u: fuelPump3 at 6856.840810391433: orderFuelTank
+u: fuelPump1 at 6861.981949332041: process 30L 65L in if
+u: fuelPump2 at 6862.505154900147: process 95L 20L in if
+u: source at 6871.33197932435: pump1 selected 75
+u: source at 6871.706365173296: pump1 selected 80
+u: fuelPump1 at 6871.9456041205385: process 45L 20L in if
+u: source at 6886.151992985166: pump1 selected 60
+u: source at 6901.623196993172: pump2 selected 85
+u: source at 6905.403555441226: pump1 selected 45
+u: source at 6906.041438572076: pump2 selected 90
+u: source at 6917.539618072357: pump3 selected 60
+u: source at 6922.155538406893: pump1 selected 30
+u: source at 6955.219316431266: pump2 selected 35
+u: source at 6991.375623905417: pump3 selected 35
+u: source at 7021.596811146959: pump1 selected 45
+u: source at 7028.051381722047: pump2 selected 70
+u: source at 7044.3633197161835: pump3 selected 70
+u: source at 7072.582783570399: pump1 selected 65
+u: source at 7082.585830288899: pump2 selected 85
+u: source at 7100.013121417256: pump3 selected 70
+u: source at 7100.346616772468: pump1 selected 100
+u: source at 7127.631093356029: pump2 selected 100
+u: source at 7136.240767577573: pump3 selected 30
+u: fuelTank at 7156.840810391433: DoneFuelTank
+u: fuelPump2 at 7166.658412360692: process 35L 410L in Else
+u: fuelPump1 at 7168.563893328164: process 75L 345L in Else
+u: fuelPump3 at 7174.60283308262: process 80L 245L in Else
+u: fuelPump1 at 7181.255508377661: process 100L 170L in if
+u: fuelPump2 at 7182.272927975249: process 65L 135L in if
+u: fuelPump3 at 7186.994512702961: process 75L 50L in if
+u: fuelPump3 at 7186.994512702961: orderFuelTank
+u: fuelPump1 at 7188.12314867053: process 35L 50L in if
+u: source at 7197.623407661255: pump1 selected 100
+u: fuelPump2 at 7201.360633701953: process 85L 50L in if
+u: source at 7204.914679911762: pump2 selected 25
+u: fuelPump2 at 7211.179944234085: process 20L 30L in if
+u: source at 7228.987721136372: pump2 selected 30
+u: source at 7247.215482838265: pump1 selected 25
+u: source at 7259.632856897061: pump2 selected 35
+u: source at 7287.042422436325: pump3 selected 5
+u: source at 7296.612123551472: pump1 selected 70
+u: source at 7322.283785096498: pump2 selected 90
+u: source at 7328.923057280955: pump3 selected 25
+u: source at 7361.492675341227: pump1 selected 85
+u: source at 7365.509172599823: pump2 selected 95
+u: source at 7366.639493710271: pump3 selected 30
+u: source at 7369.843803060005: pump1 selected 100
+u: source at 7375.750582552974: pump2 selected 95
+u: source at 7396.619722311024: pump3 selected 25
+u: source at 7406.7423349278015: pump1 selected 50
+u: source at 7459.077317332956: pump2 selected 10
+u: source at 7461.195104077817: pump3 selected 15
+u: source at 7474.448624388473: pump1 selected 35
+u: source at 7478.457163392889: pump2 selected 25
+u: fuelTank at 7486.994512702961: DoneFuelTank
+u: fuelPump1 at 7499.178663460636: process 80L 335L in Else
+u: fuelPump2 at 7504.7490930130925: process 90L 260L in Else
+u: fuelPump3 at 7505.26614309722: process 95L 200L in Else
+u: fuelPump1 at 7512.596101461145: process 75L 190L in if
+u: fuelPump2 at 7514.794071201006: process 60L 130L in if
+u: source at 7515.955067272905: pump1 selected 60
+u: fuelPump3 at 7516.803418858065: process 10L 100L in if
+u: source at 7521.411594291189: pump3 selected 80
+u: fuelPump1 at 7523.972185514453: process 60L 75L in if
+u: fuelPump2 at 7524.361712235837: process 30L 70L in if
+u: fuelPump3 at 7524.977688896781: process 25L 35L in if
+u: fuelPump1 at 7528.4066124338715: process 5L 15L in if
+u: fuelPump1 at 7528.4066124338715: orderFuelTank
+u: fuelPump2 at 7534.205368483561: process 35L 15L in if
+u: source at 7535.668052433925: pump2 selected 60
+u: fuelPump3 at 7535.869977641982: process 20L 15L in if
+u: source at 7540.378789724728: pump3 selected 70
+u: source at 7541.741408412911: pump1 selected 10
+u: source at 7560.362323317533: pump2 selected 45
+u: source at 7566.043957778392: pump3 selected 35
+u: source at 7567.3349939433965: pump1 selected 95
+u: source at 7571.606685929145: pump2 selected 70
+u: source at 7581.106142503643: pump3 selected 70
+u: source at 7585.553506599734: pump1 selected 75
+u: source at 7604.945582420301: pump2 selected 70
+u: source at 7607.971951934034: pump3 selected 40
+u: source at 7627.281948185916: pump1 selected 15
+u: source at 7640.876010102577: pump2 selected 65
+u: source at 7679.325975046217: pump3 selected 50
+u: source at 7686.710566360343: pump1 selected 5
+u: source at 7687.87729553503: pump2 selected 15
+u: source at 7694.705542549883: pump3 selected 30
+u: source at 7762.215618329829: pump1 selected 70
+u: source at 7765.508787114984: pump2 selected 55
+u: source at 7784.1988407839535: pump3 selected 65
+u: source at 7796.648113709794: pump1 selected 60
+u: fuelTank at 7828.4066124338715: DoneFuelTank
+u: source at 7833.1582277911175: pump2 selected 50
+u: source at 7836.87756901049: pump3 selected 80
+u: fuelPump1 at 7839.915926672354: process 60L 410L in Else
+u: source at 7840.6135536798565: pump1 selected 100
+u: fuelPump3 at 7842.899245574118: process 40L 370L in Else
+u: fuelPump2 at 7844.376583796787: process 90L 275L in Else
+u: source at 7846.991328112505: pump2 selected 35
+u: fuelPump1 at 7849.0979008507475: process 40L 190L in if
+u: fuelPump2 at 7857.896763096295: process 85L 125L in if
+u: fuelPump1 at 7858.972456394651: process 65L 120L in if
+u: fuelPump3 at 7858.991541176615: process 95L 85L in if
+u: fuelPump2 at 7863.660366470655: process 5L 20L in if
+u: fuelPump1 at 7867.305320606915: process 35L 15L in if
+u: fuelPump1 at 7867.305320606915: orderFuelTank
+u: fuelPump2 at 7868.144600566968: process 5L 15L in if
+u: source at 7873.863151752507: pump1 selected 15
+u: fuelPump3 at 7874.986729042792: process 65L 15L in if
+u: source at 7877.636592240584: pump2 selected 80
+u: source at 7922.849907938439: pump3 selected 30
+u: source at 7933.550273760938: pump1 selected 85
+u: source at 7934.946185469228: pump2 selected 90
+u: source at 7941.923862408437: pump3 selected 30
+u: source at 7944.1366070422455: pump1 selected 60
+u: source at 7961.636626466586: pump2 selected 15
+u: source at 7971.263954942005: pump3 selected 85
+u: source at 8009.384234412596: pump1 selected 60
+u: source at 8012.009212940571: pump2 selected 60
+u: source at 8046.7768610314315: pump3 selected 60
+u: source at 8069.43347978314: pump1 selected 30
+u: source at 8107.976023675211: pump2 selected 70
+u: source at 8143.380771990114: pump3 selected 60
+u: source at 8156.182409500718: pump1 selected 25
+u: fuelTank at 8167.305320606915: DoneFuelTank
+u: fuelPump1 at 8176.133471716101: process 20L 450L in Else
+u: source at 8178.618821664044: pump1 selected 25
+u: fuelPump2 at 8180.887833238631: process 35L 400L in Else
+u: source at 8183.1939021463195: pump2 selected 25
+u: fuelPump3 at 8184.1714586660355: process 95L 305L in Else
+u: fuelPump1 at 8184.413054404128: process 50L 230L in if
+u: fuelPump2 at 8195.917234250564: process 95L 140L in if
+u: fuelPump3 at 8196.554400203313: process 75L 80L in if
+u: fuelPump1 at 8197.302476089817: process 90L 5L in if
+u: fuelPump1 at 8197.302476089817: orderFuelTank
+u: source at 8202.681776308535: pump3 selected 75
+u: fuelPump2 at 8210.004375286771: process 60L 5L in if
+u: fuelPump3 at 8213.414050058402: process 75L 5L in if
+u: source at 8232.484887151822: pump2 selected 35
+u: source at 8235.464695906307: pump3 selected 45
+u: source at 8235.504910781989: pump1 selected 100
+u: source at 8256.557181225335: pump2 selected 50
+u: source at 8285.764034164757: pump3 selected 80
+u: source at 8287.93795179326: pump1 selected 50
+u: source at 8295.685482768245: pump2 selected 80
+u: source at 8298.927836556793: pump3 selected 85
+u: source at 8350.693064476665: pump1 selected 45
+u: source at 8365.16501228361: pump2 selected 30
+u: source at 8392.494942118134: pump3 selected 30
+u: source at 8395.798896881828: pump1 selected 100
+u: source at 8401.143211789775: pump2 selected 30
+u: source at 8403.12133038087: pump3 selected 45
+u: source at 8409.226948746622: pump1 selected 50
+u: source at 8412.887829360538: pump2 selected 40
+u: source at 8419.799371047096: pump3 selected 100
+u: source at 8419.93463790996: pump1 selected 100
+u: source at 8433.587604292357: pump2 selected 60
+u: source at 8440.881122328128: pump3 selected 55
+u: source at 8456.587677557312: pump1 selected 75
+u: source at 8462.285995355463: pump2 selected 75
+u: source at 8465.703978910147: pump3 selected 30
+u: source at 8467.598863777486: pump1 selected 65
+u: source at 8469.159909224194: pump2 selected 75
+u: source at 8470.711270926344: pump3 selected 35
+u: source at 8481.533823906102: pump1 selected 100
+u: fuelTank at 8497.302476089817: DoneFuelTank
+u: fuelPump1 at 8504.330128852696: process 25L 425L in Else
+u: source at 8504.474311692808: pump1 selected 70
+u: fuelPump3 at 8509.354321249317: process 70L 400L in Else
+u: source at 8510.704011187961: pump3 selected 5
+u: fuelPump1 at 8511.156194905592: process 25L 365L in if
+u: fuelPump2 at 8511.834884764701: process 80L 315L in Else
+u: fuelPump2 at 8516.534586729886: process 5L 310L in if
+u: fuelPump3 at 8517.419782888244: process 35L 255L in if
+u: fuelPump1 at 8519.762275043808: process 50L 160L in if
+u: source at 8524.467882601808: pump2 selected 40
+u: fuelPump2 at 8526.327631667444: process 55L 85L in if
+u: source at 8531.75228705931: pump2 selected 40
+u: fuelPump1 at 8532.585034216454: process 75L 20L in if
+u: fuelPump1 at 8532.585034216454: orderFuelTank
+u: fuelPump3 at 8534.815175139209: process 95L 20L in if
+u: fuelPump2 at 8538.241086229107: process 65L 20L in if
+u: source at 8546.106540897457: pump1 selected 5
+u: source at 8575.21602038122: pump2 selected 80
+u: source at 8581.356326636324: pump3 selected 30
+u: source at 8584.455654665599: pump1 selected 50
+u: source at 8587.19317748328: pump2 selected 50
+u: source at 8589.947247649401: pump3 selected 35
+u: source at 8613.546180841773: pump1 selected 75
+u: source at 8624.461712566332: pump2 selected 20
+u: source at 8645.751282754616: pump3 selected 60
+u: source at 8662.611039217: pump1 selected 70
+u: source at 8668.220194175954: pump2 selected 85
+u: source at 8677.352095757646: pump3 selected 100
+u: source at 8681.09330206315: pump1 selected 40
+u: source at 8703.35956607378: pump2 selected 60
+u: source at 8710.233636149742: pump3 selected 90
+u: source at 8716.193367454769: pump1 selected 15
+u: source at 8726.87539670184: pump2 selected 55
+u: source at 8732.147979049125: pump3 selected 20
+u: source at 8774.481286828122: pump1 selected 90
+u: source at 8784.048079777744: pump2 selected 15
+u: source at 8785.79417664875: pump3 selected 85
+u: source at 8812.642595507117: pump1 selected 65
+u: source at 8814.085952678066: pump2 selected 20
+u: source at 8829.600025600625: pump3 selected 65
+u: fuelTank at 8832.585034216454: DoneFuelTank
+u: fuelPump1 at 8841.978875333945: process 55L 485L in Else
+u: fuelPump3 at 8842.276261120007: process 25L 465L in Else
+u: fuelPump2 at 8845.606748712371: process 35L 370L in Else
+u: fuelPump1 at 8845.946184220693: process 20L 345L in if
+u: fuelPump2 at 8849.87431034644: process 25L 290L in if
+u: source at 8853.38108562851: pump1 selected 95
+u: fuelPump1 at 8854.968122271666: process 55L 195L in if
+u: fuelPump1 at 8860.761647083646: process 30L 165L in if
+u: source at 8861.168851014925: pump1 selected 40
+u: fuelPump3 at 8861.979568300509: process 95L 135L in if
+u: fuelPump2 at 8864.744677692532: process 95L 60L in if
+u: fuelPump1 at 8866.73550871291: process 30L 55L in if
+u: fuelPump1 at 8866.73550871291: orderFuelTank
+u: fuelPump2 at 8873.114743007867: process 5L 55L in if
+u: source at 8875.153948926887: pump2 selected 70
+u: fuelPump3 at 8878.684989159421: process 75L 55L in if
+u: source at 8884.320956116237: pump1 selected 75
+u: fuelPump3 at 8888.598434691683: process 25L 30L in if
+u: source at 8925.22421989639: pump3 selected 55
+u: source at 8928.276078803588: pump2 selected 20
+u: source at 8960.057117090615: pump3 selected 75
+u: source at 8979.289523204632: pump1 selected 80
+u: source at 9000.800239752905: pump2 selected 5
+u: source at 9006.365405541042: pump3 selected 80
+u: source at 9022.091207752448: pump1 selected 10
+u: source at 9046.982063436519: pump2 selected 50
+u: source at 9093.411683816757: pump3 selected 90
+u: source at 9096.77556614847: pump1 selected 65
+u: source at 9104.499059073163: pump2 selected 45
+u: source at 9123.369131084171: pump3 selected 15
+u: source at 9125.08826463355: pump1 selected 70
+u: source at 9126.660861593951: pump2 selected 100
+u: source at 9135.10288897289: pump3 selected 100
+u: source at 9158.722221944055: pump1 selected 90
+u: source at 9162.935090558198: pump2 selected 55
+u: fuelTank at 9166.73550871291: DoneFuelTank
+u: source at 9171.120706416825: pump3 selected 60
+u: source at 9172.26832429218: pump1 selected 20
+u: fuelPump1 at 9178.620351933932: process 85L 350L in Else
+u: fuelPump2 at 9180.021062878459: process 70L 325L in Else
+u: fuelPump1 at 9185.600764618433: process 25L 250L in if
+u: fuelPump3 at 9186.652704767754: process 95L 195L in Else
+u: fuelPump1 at 9193.146486735246: process 55L 135L in if
+u: fuelPump2 at 9194.831231055961: process 75L 60L in if
+u: source at 9199.261299911406: pump1 selected 60
+u: fuelPump3 at 9199.457445587157: process 60L 5L in if
+u: fuelPump3 at 9199.457445587157: orderFuelTank
+u: fuelPump1 at 9203.554325965542: process 75L 5L in if
+u: fuelPump2 at 9203.841298090634: process 55L 5L in if
+u: source at 9210.341250176694: pump2 selected 50
+u: source at 9213.406667058487: pump1 selected 5
+u: source at 9226.01856447655: pump2 selected 5
+u: source at 9229.95048906611: pump3 selected 70
+u: source at 9239.569220978627: pump1 selected 65
+u: source at 9243.603439122364: pump2 selected 60
+u: source at 9245.898404216066: pump3 selected 60
+u: source at 9258.332652314804: pump1 selected 80
+u: source at 9276.450688734465: pump2 selected 30
+u: source at 9308.067220411916: pump3 selected 95
+u: source at 9317.198128614: pump1 selected 25
+u: source at 9327.046267512873: pump2 selected 60
+u: source at 9333.363376851608: pump3 selected 60
+u: source at 9346.398290949855: pump1 selected 65
+u: source at 9354.050314059376: pump2 selected 85
+u: source at 9398.61367027442: pump3 selected 35
+u: source at 9424.06423092764: pump1 selected 100
+u: source at 9427.519988060158: pump2 selected 75
+u: source at 9452.291483853298: pump3 selected 60
+u: source at 9464.7265560371: pump1 selected 85
+u: source at 9490.919701676272: pump2 selected 95
+u: fuelTank at 9499.457445587157: DoneFuelTank
+u: fuelPump1 at 9506.830155667345: process 40L 425L in Else
+u: fuelPump2 at 9513.194614635182: process 80L 335L in Else
+u: fuelPump3 at 9513.676425983893: process 55L 325L in Else
+u: source at 9517.923047494272: pump3 selected 90
+u: source at 9518.646739324118: pump1 selected 100
+u: fuelPump1 at 9519.55401325396: process 90L 295L in if
+u: fuelPump2 at 9520.030735285309: process 10L 245L in if
+u: fuelPump3 at 9522.038737228353: process 30L 195L in if
+u: source at 9522.136563879141: pump2 selected 85
+u: source at 9527.839278490497: pump3 selected 15
+u: source at 9528.987299271843: pump1 selected 65
+u: fuelPump1 at 9529.741441294263: process 50L 120L in if
+u: fuelPump2 at 9530.982125300074: process 50L 110L in if
+u: source at 9536.327567691353: pump2 selected 50
+u: fuelPump1 at 9537.513249262875: process 10L 30L in if
+u: fuelPump1 at 9537.513249262875: orderFuelTank
+u: source at 9538.105411514935: pump1 selected 90
+u: fuelPump3 at 9538.698519260142: process 75L 30L in if
+u: fuelPump2 at 9542.190702710795: process 80L 30L in if
+u: source at 9550.873191049412: pump2 selected 75
+u: source at 9579.02802000312: pump3 selected 100
+u: source at 9581.838044398977: pump1 selected 60
+u: source at 9584.20061191369: pump2 selected 5
+u: source at 9611.301219685527: pump3 selected 5
+u: source at 9629.869667839694: pump1 selected 15
+u: source at 9646.233330675286: pump2 selected 15
+u: source at 9647.97936912382: pump3 selected 65
+u: source at 9650.932418232182: pump1 selected 55
+u: source at 9664.23361538178: pump2 selected 60
+u: source at 9668.537066653926: pump3 selected 35
+u: source at 9683.019765840738: pump1 selected 65
+u: source at 9708.008056251432: pump2 selected 75
+u: source at 9711.368463082632: pump3 selected 20
+u: source at 9746.501101881384: pump1 selected 30
+u: source at 9748.686558771156: pump2 selected 30
+u: source at 9764.900954984083: pump3 selected 100
+u: source at 9770.280159368196: pump1 selected 45
+u: source at 9777.990540590508: pump2 selected 80
+u: source at 9801.459844279536: pump3 selected 55
+u: source at 9802.610361821817: pump1 selected 25
+u: source at 9804.263972506249: pump2 selected 25
+u: source at 9815.92004308564: pump3 selected 45
+u: source at 9816.438768421684: pump1 selected 90
+u: source at 9819.801241158468: pump2 selected 65
+u: source at 9821.866727945473: pump3 selected 75
+u: fuelTank at 9837.513249262875: DoneFuelTank
+u: source at 9842.581991023879: pump1 selected 100
+u: fuelPump1 at 9844.904639678954: process 45L 370L in Else
+u: fuelPump3 at 9852.556454722297: process 85L 270L in Else
+u: fuelPump2 at 9853.794516811486: process 100L 200L in Else
+u: fuelPump1 at 9859.667719890158: process 100L 160L in if
+u: fuelPump1 at 9863.627316576805: process 20L 140L in if
+u: fuelPump2 at 9865.092428303726: process 40L 100L in if
+u: fuelPump3 at 9866.65877765251: process 70L 75L in if
+u: fuelPump2 at 9871.579375293644: process 25L 65L in if
+u: fuelPump1 at 9873.432669242471: process 40L 55L in if
+u: fuelPump3 at 9877.031409024386: process 10L 40L in if
+u: fuelPump2 at 9878.34195078959: process 10L 35L in if
+u: fuelPump2 at 9878.34195078959: orderFuelTank
+u: fuelPump1 at 9879.204544799766: process 15L 35L in if
+u: fuelPump3 at 9884.62175394425: process 5L 35L in if
+u: source at 9885.742500690894: pump1 selected 25
+u: fuelPump3 at 9894.547623610764: process 5L 30L in if
+u: source at 9896.441335342686: pump3 selected 75
+u: source at 9896.676614773049: pump2 selected 35
+u: source at 9904.570275418784: pump3 selected 75
+u: source at 9917.03045382999: pump1 selected 70
+u: source at 9926.395534829768: pump2 selected 25
+u: source at 9959.823760616591: pump3 selected 80
+u: source at 9963.75966884572: pump1 selected 55
+u: source at 9971.611039915286: pump2 selected 65
+u: source at 9971.72865939649: pump3 selected 45
+u: source at 9981.71161395033: pump1 selected 50
+u: source at 9993.200565151645: pump2 selected 15
+u: source at 10040.984413427004: pump3 selected 60
+u: source at 10055.550373859049: pump1 selected 5
+u: source at 10065.982268231832: pump2 selected 55
+u: source at 10087.812122411717: pump3 selected 85
+u: source at 10114.767541325791: pump1 selected 30
+u: source at 10129.64227597375: pump2 selected 40
+u: source at 10136.885038018088: pump3 selected 15
+u: source at 10166.996130944495: pump1 selected 5
+u: fuelTank at 10178.34195078959: DoneFuelTank
+u: source at 10179.016533253696: pump2 selected 85
+u: fuelPump1 at 10190.27430942747: process 65L 405L in Else
+u: fuelPump2 at 10191.311074951214: process 55L 340L in Else
+u: fuelPump3 at 10193.934164760749: process 75L 320L in Else
+u: fuelPump2 at 10197.569847835657: process 20L 275L in if
+u: fuelPump1 at 10199.177327969985: process 65L 215L in if
+u: fuelPump1 at 10206.07760809824: process 40L 175L in if
+u: fuelPump3 at 10206.815862847205: process 45L 165L in if
+u: fuelPump1 at 10208.971466958255: process 10L 70L in if
+u: fuelPump2 at 10211.095049686819: process 60L 0L in if
+u: fuelPump2 at 10211.095049686819: orderFuelTank
+u: fuelPump1 at 10221.925798913: process 70L 0L in if
+u: fuelPump3 at 10224.676736173087: process 95L 0L in if
+u: source at 10226.322848047372: pump1 selected 40
+u: source at 10240.53904772332: pump1 selected 35
+u: source at 10259.976215120654: pump3 selected 75
+u: source at 10280.87202988058: pump1 selected 65
+u: source at 10282.575580564184: pump2 selected 75
+u: source at 10296.068386833136: pump3 selected 70
+u: source at 10319.931003262394: pump1 selected 80
+u: source at 10333.552124444715: pump2 selected 65
+u: source at 10335.338286076882: pump3 selected 15
+u: source at 10369.897941907668: pump1 selected 15
+u: source at 10392.222487450412: pump2 selected 20
+u: source at 10399.959724489408: pump3 selected 80
+u: source at 10477.471391729967: pump1 selected 75
+u: source at 10496.220304944922: pump2 selected 80
+u: source at 10498.622335569704: pump3 selected 60
+u: fuelTank at 10511.095049686819: DoneFuelTank
+u: source at 10513.694360657923: pump1 selected 10
+u: fuelPump1 at 10517.109250184012: process 20L 455L in Else
+u: fuelPump2 at 10521.512679563546: process 40L 435L in Else
+u: fuelPump1 at 10521.533342115874: process 20L 365L in if
+u: source at 10526.314907415406: pump1 selected 65
+u: fuelPump3 at 10528.689402223436: process 85L 310L in Else
+u: fuelPump1 at 10530.47706930029: process 55L 300L in if
+u: fuelPump2 at 10534.903037615213: process 70L 225L in if
+u: fuelPump3 at 10538.799718327815: process 10L 180L in if
+u: fuelPump1 at 10540.565942431249: process 75L 150L in if
+u: fuelPump2 at 10546.247758702337: process 45L 55L in if
+u: fuelPump2 at 10546.247758702337: orderFuelTank
+u: fuelPump3 at 10549.144094287425: process 30L 55L in if
+u: fuelPump1 at 10553.053798618757: process 95L 55L in if
+u: fuelPump1 at 10561.201268830404: process 45L 10L in if
+u: source at 10579.912857401336: pump1 selected 5
+u: source at 10595.288082099665: pump1 selected 15
+u: source at 10602.723051017025: pump2 selected 50
+u: source at 10629.436674610737: pump3 selected 20
+u: source at 10647.708593921603: pump1 selected 10
+u: source at 10649.245958281286: pump2 selected 90
+u: source at 10665.131555459437: pump3 selected 100
+u: source at 10694.272118570896: pump1 selected 5
+u: source at 10714.325937873053: pump2 selected 10
+u: source at 10716.857602091199: pump3 selected 65
+u: source at 10727.184339112058: pump1 selected 60
+u: source at 10739.124896635518: pump2 selected 75
+u: source at 10742.820832931142: pump3 selected 40
+u: source at 10755.28394958459: pump1 selected 5
+u: source at 10802.426378804066: pump2 selected 45
+u: source at 10802.935681636445: pump3 selected 100
+u: source at 10809.69714020944: pump1 selected 20
+u: source at 10812.080484882877: pump2 selected 45
+u: source at 10821.257542620478: pump3 selected 65
+u: source at 10840.821198243646: pump1 selected 20
+u: fuelTank at 10846.247758702337: DoneFuelTank
+u: source at 10846.775015676085: pump2 selected 30
+u: fuelPump1 at 10859.58254182984: process 100L 355L in Else
+u: fuelPump2 at 10860.75911680961: process 75L 275L in Else
+u: fuelPump3 at 10862.74840966025: process 70L 200L in Else
+u: source at 10869.851461990052: pump3 selected 65
+u: fuelPump1 at 10871.09258407241: process 80L 165L in if
+u: fuelPump3 at 10872.165342174609: process 35L 100L in if
+u: fuelPump2 at 10875.839923639414: process 75L 35L in if
+u: fuelPump2 at 10875.839923639414: orderFuelTank
+u: fuelPump1 at 10883.213030420762: process 65L 35L in if
+u: source at 10885.386452085078: pump1 selected 50
+u: fuelPump3 at 10886.221372035972: process 65L 30L in if
+u: fuelPump1 at 10889.513814282718: process 5L 30L in if
+u: fuelPump1 at 10893.588376816506: process 20L 10L in if
+u: source at 10912.342075756711: pump1 selected 30
+u: source at 10973.428015035299: pump1 selected 75
+u: source at 10980.894955407142: pump3 selected 90
+u: source at 10998.065181745906: pump1 selected 90
+u: source at 11022.08911782361: pump2 selected 65
+u: source at 11042.101098972353: pump3 selected 30
+u: source at 11068.696867745224: pump1 selected 100
+u: source at 11074.809880952895: pump2 selected 80
+u: source at 11082.98952172458: pump3 selected 10
+u: source at 11085.159692056304: pump1 selected 35
+u: source at 11085.657359491837: pump2 selected 45
+u: source at 11111.851075880038: pump3 selected 70
+u: source at 11133.79139866333: pump1 selected 35
+u: source at 11145.785256876943: pump2 selected 95
+u: source at 11147.223733338877: pump3 selected 55
+u: source at 11148.135367764455: pump1 selected 60
+u: source at 11153.73676239862: pump2 selected 40
+u: source at 11161.14917630533: pump3 selected 60
+u: source at 11163.636192465867: pump1 selected 5
+u: source at 11170.81539145696: pump2 selected 50
+u: fuelTank at 11175.839923639414: DoneFuelTank
+u: source at 11181.36063654339: pump3 selected 30
+u: source at 11183.340681785323: pump1 selected 75
+u: fuelPump1 at 11186.32766371867: process 60L 385L in Else
+u: fuelPump3 at 11190.47837224807: process 60L 360L in Else
+u: fuelPump2 at 11190.90939532308: process 95L 295L in Else
+u: fuelPump1 at 11192.373589757342: process 25L 205L in if
+u: source at 11203.568531058432: pump1 selected 30
+u: fuelPump1 at 11204.010179471268: process 75L 130L in if
+u: fuelPump3 at 11206.598307664335: process 65L 50L in if
+u: fuelPump2 at 11207.85396850898: process 90L 40L in if
+u: fuelPump1 at 11213.100820633783: process 80L 35L in if
+u: fuelPump1 at 11213.100820633783: orderFuelTank
+u: fuelPump2 at 11213.893278517631: process 5L 35L in if
+u: fuelPump3 at 11216.602537980285: process 10L 35L in if
+u: source at 11218.610270375728: pump2 selected 15
+u: fuelPump3 at 11225.08414803938: process 30L 5L in if
+u: source at 11237.86508276609: pump3 selected 20
+u: source at 11241.208918841852: pump3 selected 75
+u: source at 11241.897838247898: pump1 selected 40
+u: source at 11274.894135707505: pump2 selected 50
+u: source at 11286.11236736454: pump3 selected 80
+u: source at 11292.520235166272: pump1 selected 25
+u: source at 11303.975996208363: pump2 selected 45
+u: source at 11316.932051366817: pump3 selected 50
+u: source at 11329.05253033404: pump1 selected 45
+u: source at 11358.475552738226: pump2 selected 35
+u: source at 11366.51799530928: pump3 selected 80
+u: source at 11378.38068710666: pump1 selected 50
+u: source at 11378.918244173921: pump2 selected 75
+u: source at 11379.919848472095: pump3 selected 55
+u: source at 11379.982763255384: pump1 selected 35
+u: source at 11383.448805550333: pump2 selected 30
+u: source at 11457.96929079188: pump3 selected 65
+u: source at 11477.197639016724: pump1 selected 45
+u: source at 11497.563957929313: pump2 selected 5
+u: source at 11508.041474091697: pump3 selected 30
+u: fuelTank at 11513.100820633783: DoneFuelTank
+u: source at 11520.214635210252: pump1 selected 75
+u: fuelPump1 at 11525.347741355372: process 60L 385L in Else
+u: source at 11525.551785723144: pump1 selected 25
+u: fuelPump2 at 11527.360116288979: process 75L 340L in Else
+u: fuelPump3 at 11531.540102800473: process 80L 330L in Else
+u: fuelPump2 at 11533.890380755627: process 10L 250L in if
+u: fuelPump1 at 11534.547004359683: process 45L 200L in if
+u: fuelPump1 at 11541.129846116059: process 30L 170L in if
+u: source at 11545.215410861048: pump2 selected 95
+u: fuelPump3 at 11546.007474995844: process 80L 125L in if
+u: fuelPump2 at 11546.898164628812: process 50L 50L in if
+u: fuelPump1 at 11549.405056669926: process 45L 30L in if
+u: fuelPump1 at 11549.405056669926: orderFuelTank
+u: source at 11552.94629118227: pump1 selected 100
+u: fuelPump2 at 11555.705628911322: process 20L 30L in if
+u: fuelPump3 at 11563.329263876672: process 75L 30L in if
+u: source at 11564.17126206806: pump2 selected 25
+u: source at 11586.64166964605: pump3 selected 50
+u: source at 11588.812968826653: pump2 selected 35
+u: source at 11589.602446403818: pump3 selected 70
+u: source at 11591.467484274159: pump1 selected 95
+u: source at 11602.26360503618: pump2 selected 100
+u: source at 11605.478001635633: pump3 selected 25
+u: source at 11656.207197842485: pump1 selected 70
+u: source at 11662.211635109245: pump2 selected 75
+u: source at 11713.243254963232: pump3 selected 45
+u: source at 11714.858469230963: pump1 selected 50
+u: source at 11716.603774824418: pump2 selected 10
+u: source at 11719.231945031155: pump3 selected 65
+u: source at 11729.005784258668: pump1 selected 75
+u: source at 11754.59423714089: pump2 selected 55
+u: source at 11775.58608795753: pump3 selected 55
+u: source at 11782.094093790998: pump1 selected 45
+u: source at 11810.417592455668: pump2 selected 70
+u: source at 11830.976455788908: pump3 selected 20
+u: fuelTank at 11849.405056669926: DoneFuelTank
+u: source at 11850.970209506972: pump1 selected 70
+u: source at 11857.097200235545: pump2 selected 40
+u: fuelPump1 at 11861.253851824678: process 65L 425L in Else
+u: fuelPump2 at 11861.926739361348: process 70L 325L in Else
+u: fuelPump3 at 11863.212855399854: process 40L 305L in Else
+u: source at 11864.534307220641: pump3 selected 25
+u: fuelPump2 at 11870.291796131418: process 20L 265L in if
+u: fuelPump3 at 11872.970783868137: process 40L 165L in if
+u: fuelPump1 at 11873.719475800506: process 100L 145L in if
+u: fuelPump3 at 11882.875971741782: process 20L 45L in if
+u: fuelPump3 at 11882.875971741782: orderFuelTank
+u: fuelPump1 at 11885.899186925417: process 100L 45L in if
+u: fuelPump2 at 11886.29987180647: process 100L 20L in if
+u: fuelPump2 at 11889.425153203363: process 10L 10L in if
+u: fuelPump1 at 11889.97507104325: process 25L 10L in if
+u: source at 11917.999156657566: pump1 selected 10
+u: source at 11918.377568111067: pump2 selected 75
+u: source at 11936.567178397481: pump1 selected 45
+u: source at 11938.913674728381: pump2 selected 35
+u: source at 11990.952407630226: pump3 selected 10
+u: source at 11994.417405133567: pump1 selected 30
+u: source at 11998.049482392757: pump2 selected 35
+u: source at 12019.038138810143: pump3 selected 80
+u: source at 12026.281093132291: pump1 selected 20
+u: source at 12072.955384275214: pump2 selected 20
+u: source at 12089.385505359569: pump3 selected 25
+u: source at 12097.014355810643: pump1 selected 55
+u: source at 12103.418910295535: pump2 selected 25
+u: fuelTank at 12182.875971741782: DoneFuelTank
+u: fuelPump1 at 12194.502036929427: process 70L 355L in Else
+u: fuelPump3 at 12197.975427656182: process 80L 270L in Else
+u: source at 12198.524989432506: pump3 selected 10
+u: fuelPump2 at 12200.465817418219: process 95L 185L in Else
+u: fuelPump1 at 12205.036886340353: process 85L 140L in if
+u: source at 12207.13493765661: pump1 selected 65
+u: source at 12211.700041842496: pump1 selected 75
+u: fuelPump2 at 12214.129637123133: process 45L 40L in if
+u: fuelPump2 at 12214.129637123133: orderFuelTank
+u: fuelPump3 at 12214.942402703155: process 85L 40L in if
+u: fuelPump1 at 12217.820700425958: process 100L 40L in if
+u: source at 12221.582718020658: pump2 selected 65
+u: source at 12222.194207138686: pump3 selected 50
+u: source at 12255.2400602659: pump1 selected 70
+u: source at 12255.375567149838: pump2 selected 45
+u: source at 12282.641827349977: pump3 selected 100
+u: source at 12294.200775102132: pump1 selected 55
+u: source at 12318.730405058439: pump2 selected 60
+u: source at 12344.67852397884: pump3 selected 45
+u: source at 12347.268728392044: pump1 selected 20
+u: source at 12362.1149999148: pump2 selected 55
+u: source at 12368.870989302104: pump3 selected 90
+u: source at 12441.576558143244: pump1 selected 85
+u: source at 12456.252023414538: pump2 selected 100
+u: source at 12492.775595707504: pump3 selected 40
+u: source at 12501.08148300936: pump1 selected 20
+u: source at 12508.363744618373: pump2 selected 90
+u: fuelTank at 12514.129637123133: DoneFuelTank
+u: fuelPump1 at 12523.345135178804: process 50L 405L in Else
+u: source at 12528.600003655623: pump1 selected 5
+u: fuelPump3 at 12528.610738583311: process 60L 370L in Else
+u: fuelPump2 at 12528.613025870462: process 85L 335L in Else
+u: fuelPump1 at 12531.66624629008: process 35L 250L in if
+u: fuelPump1 at 12540.563725821305: process 60L 190L in if
+u: fuelPump3 at 12541.835164403228: process 35L 180L in if
+u: fuelPump1 at 12543.917165731978: process 10L 125L in if
+u: fuelPump2 at 12545.88560150867: process 85L 30L in if
+u: fuelPump2 at 12545.88560150867: orderFuelTank
+u: fuelPump3 at 12553.588537085136: process 55L 30L in if
+u: fuelPump1 at 12557.839081829741: process 95L 30L in if
+u: source at 12629.419607678803: pump1 selected 75
+u: source at 12635.162535031915: pump3 selected 55
+u: source at 12645.445715091637: pump1 selected 30
+u: source at 12671.661942862442: pump3 selected 50
+u: source at 12675.427767108109: pump1 selected 25
+u: source at 12707.86417103882: pump2 selected 15
+u: source at 12710.28441104936: pump3 selected 85
+u: source at 12783.474526200907: pump1 selected 5
+u: source at 12806.761260796997: pump2 selected 5
+u: source at 12815.139542799332: pump3 selected 100
+u: source at 12817.204488012072: pump1 selected 85
+u: source at 12819.845130983604: pump2 selected 65
+u: source at 12835.287588036823: pump3 selected 95
+u: fuelTank at 12845.88560150867: DoneFuelTank
+u: fuelPump1 at 12858.309364964414: process 75L 380L in Else
+u: fuelPump3 at 12860.185580972418: process 55L 365L in Else
+u: fuelPump2 at 12862.677145374262: process 90L 350L in Else
+u: fuelPump1 at 12864.283434476985: process 15L 315L in if
+u: fuelPump1 at 12867.921968016048: process 5L 310L in if
+u: fuelPump3 at 12870.244152782898: process 15L 240L in if
+u: fuelPump2 at 12873.241223406192: process 35L 145L in if
+u: fuelPump1 at 12878.295984437604: process 70L 75L in if
+u: fuelPump2 at 12884.816668280773: process 70L 15L in if
+u: fuelPump2 at 12884.816668280773: orderFuelTank
+u: fuelPump1 at 12886.16008150169: process 60L 15L in if
+u: fuelPump3 at 12888.769630371378: process 95L 15L in if
+u: source at 12890.437866343955: pump1 selected 20
+u: source at 12894.528930629487: pump1 selected 40
+u: source at 12897.342551346532: pump1 selected 75
+u: source at 12942.926508222403: pump2 selected 35
+u: source at 12945.119603379535: pump3 selected 80
+u: source at 12951.667533836317: pump1 selected 60
+u: source at 12952.56564898049: pump2 selected 90
+u: source at 12955.569120343984: pump3 selected 30
+u: source at 12975.448469234458: pump1 selected 30
+u: source at 12981.394173161689: pump2 selected 5
+u: source at 12985.065600557124: pump3 selected 75
+u: source at 13031.229406150003: pump1 selected 90
+u: source at 13071.095864718762: pump2 selected 60
+u: source at 13079.68094318228: pump3 selected 75
+u: source at 13087.299144017243: pump1 selected 25
+u: source at 13089.029612010176: pump2 selected 5
+u: source at 13095.584833532035: pump3 selected 80
+u: source at 13095.717861506228: pump1 selected 40
+u: source at 13105.516046502256: pump2 selected 90
+u: source at 13109.637915273903: pump3 selected 55
+u: source at 13112.17216419449: pump1 selected 95
+u: source at 13137.50100461785: pump2 selected 50
+u: source at 13140.528678362029: pump3 selected 100
+u: source at 13151.153926853973: pump1 selected 5
+u: source at 13169.20483994613: pump2 selected 55
+u: source at 13175.964300531115: pump3 selected 10
+u: source at 13179.75134231761: pump1 selected 75
+u: fuelTank at 13184.816668280773: DoneFuelTank
+u: source at 13191.858713100804: pump2 selected 70
+u: fuelPump3 at 13197.10668831111: process 20L 395L in Else
+u: fuelPump1 at 13200.92759356014: process 100L 335L in Else
+u: fuelPump2 at 13202.998477733705: process 85L 320L in Else
+u: fuelPump1 at 13204.777277139914: process 15L 220L in if
+u: source at 13205.201279660183: pump1 selected 25
+u: fuelPump3 at 13212.689937415851: process 60L 135L in if
+u: fuelPump1 at 13215.148635550773: process 85L 100L in if
+u: fuelPump2 at 13217.198837166137: process 100L 40L in if
+u: source at 13223.130862298623: pump3 selected 80
+u: source at 13223.17043892234: pump1 selected 80
+u: fuelPump1 at 13224.563108514381: process 60L 15L in if
+u: fuelPump1 at 13224.563108514381: orderFuelTank
+u: fuelPump3 at 13224.98173953868: process 35L 15L in if
+u: fuelPump2 at 13225.047625168196: process 25L 15L in if
+u: source at 13236.931719523851: pump2 selected 85
+u: source at 13242.541661750916: pump3 selected 85
+u: source at 13250.005347169312: pump1 selected 35
+u: source at 13254.889101727713: pump2 selected 30
+u: source at 13256.919787607945: pump3 selected 90
+u: source at 13281.048373191887: pump1 selected 35
+u: source at 13301.248592665559: pump2 selected 85
+u: source at 13304.722607692083: pump3 selected 40
+u: source at 13309.911068816684: pump1 selected 30
+u: source at 13316.202879610913: pump2 selected 90
+u: source at 13321.720582435006: pump3 selected 20
+u: source at 13342.097899256092: pump1 selected 40
+u: source at 13344.06957048842: pump2 selected 15
+u: source at 13367.242460023812: pump3 selected 50
+u: source at 13371.293140648379: pump1 selected 80
+u: source at 13375.122023455311: pump2 selected 40
+u: source at 13395.789609803944: pump3 selected 45
+u: source at 13409.27888191289: pump1 selected 90
+u: source at 13423.557285928147: pump2 selected 45
+u: source at 13452.53671559779: pump3 selected 95
+u: source at 13453.983527494282: pump1 selected 90
+u: source at 13455.746344934134: pump2 selected 65
+u: source at 13465.715222212259: pump3 selected 10
+u: source at 13468.257844311293: pump1 selected 55
+u: source at 13492.663224287637: pump2 selected 80
+u: source at 13495.888325929216: pump3 selected 40
+u: fuelTank at 13524.563108514381: DoneFuelTank
+u: fuelPump1 at 13535.872643853658: process 60L 440L in Else
+u: fuelPump2 at 13536.260126647114: process 30L 410L in Else
+u: fuelPump3 at 13541.320494908678: process 70L 375L in Else
+u: source at 13541.743619561246: pump1 selected 60
+u: fuelPump2 at 13542.055538261287: process 35L 305L in if
+u: fuelPump1 at 13543.2024695727: process 30L 215L in if
+u: source at 13544.504938788396: pump2 selected 45
+u: source at 13548.070673385913: pump1 selected 40
+u: fuelPump1 at 13551.415462901285: process 25L 190L in if
+u: fuelPump3 at 13556.66818116292: process 70L 165L in if
+u: source at 13557.023546082155: pump3 selected 5
+u: fuelPump1 at 13559.502327261087: process 25L 135L in if
+u: fuelPump2 at 13560.586183082753: process 90L 35L in if
+u: fuelPump2 at 13560.586183082753: orderFuelTank
+u: source at 13566.285854600785: pump1 selected 65
+u: fuelPump3 at 13567.21305142465: process 30L 35L in if
+u: fuelPump3 at 13571.668622237441: process 5L 30L in if
+u: fuelPump1 at 13574.921327831575: process 100L 5L in if
+u: fuelPump3 at 13582.237825310222: process 25L 5L in if
+u: source at 13584.818567371942: pump3 selected 30
+u: source at 13626.876422818441: pump3 selected 20
+u: source at 13628.650951420335: pump1 selected 30
+u: source at 13640.517215300522: pump2 selected 20
+u: source at 13677.572671656384: pump3 selected 30
+u: source at 13697.588134946034: pump1 selected 30
+u: source at 13702.050383883749: pump2 selected 100
+u: source at 13714.189220573726: pump3 selected 5
+u: source at 13717.114766708348: pump1 selected 30
+u: source at 13721.753951803867: pump2 selected 45
+u: source at 13758.120573070399: pump3 selected 80
+u: fuelTank at 13860.586183082753: DoneFuelTank
+u: source at 13868.73343359192: pump1 selected 70
+u: fuelPump3 at 13871.195828533302: process 30L 425L in Else
+u: fuelPump1 at 13871.360436632966: process 50L 400L in Else
+u: fuelPump2 at 13877.80143390744: process 95L 355L in Else
+u: fuelPump3 at 13880.257421442268: process 25L 260L in if
+u: fuelPump1 at 13882.268890314086: process 45L 245L in if
+u: fuelPump3 at 13888.852900337479: process 15L 145L in if
+u: source at 13890.390382067273: pump3 selected 100
+u: fuelPump2 at 13893.97904895465: process 95L 65L in if
+u: fuelPump1 at 13895.89573983593: process 100L 55L in if
+u: fuelPump1 at 13902.413130764824: process 50L 5L in if
+u: fuelPump1 at 13902.413130764824: orderFuelTank
+u: fuelPump3 at 13902.460563863287: process 80L 5L in if
+u: fuelPump2 at 13902.7286945765: process 10L 5L in if
+u: source at 13934.971893035938: pump1 selected 30
+u: source at 13941.230668455073: pump2 selected 25
+u: source at 13943.132463068732: pump3 selected 30
+u: source at 13947.889612931924: pump1 selected 35
+u: source at 13967.897929434817: pump2 selected 15
+u: source at 13976.926205992599: pump3 selected 20
+u: source at 13993.273840877464: pump1 selected 35
+u: source at 14003.564078564184: pump2 selected 20
+u: source at 14013.545184392204: pump3 selected 100
+u: source at 14029.63436700103: pump1 selected 40
+u: source at 14054.306037310498: pump2 selected 95
+u: source at 14054.825550003101: pump3 selected 45
+u: source at 14081.563248407878: pump1 selected 10
+u: source at 14085.972742510365: pump2 selected 40
+u: source at 14087.644054480474: pump3 selected 75
+u: source at 14112.12020038161: pump1 selected 60
+u: source at 14117.12738108454: pump2 selected 25
+u: source at 14132.807657624075: pump3 selected 80
+u: source at 14161.506498371464: pump1 selected 35
+u: fuelTank at 14202.413130764824: DoneFuelTank
+u: fuelPump2 at 14210.916679115402: process 25L 405L in Else
+u: fuelPump1 at 14216.839394066854: process 100L 345L in Else
+u: source at 14216.846826884928: pump2 selected 15
+u: fuelPump3 at 14218.270174669282: process 70L 270L in Else
+u: fuelPump2 at 14223.985837335533: process 60L 235L in if
+u: fuelPump3 at 14230.932660909746: process 35L 190L in if
+u: fuelPump1 at 14231.100774468407: process 75L 120L in if
+u: source at 14232.798320473314: pump3 selected 55
+u: source at 14237.937591374002: pump1 selected 85
+u: fuelPump2 at 14238.410946506852: process 45L 55L in if
+u: fuelPump2 at 14238.410946506852: orderFuelTank
+u: fuelPump1 at 14239.588378552542: process 65L 55L in if
+u: source at 14242.97789688667: pump2 selected 75
+u: fuelPump3 at 14244.536995859018: process 70L 55L in if
+u: fuelPump3 at 14253.515752153684: process 40L 15L in if
+u: source at 14265.036124924649: pump3 selected 80
+u: source at 14289.481992443403: pump3 selected 75
+u: source at 14291.1958171033: pump1 selected 10
+u: source at 14302.026942097831: pump2 selected 100
+u: source at 14310.144682925844: pump3 selected 80
+u: source at 14333.644426513212: pump1 selected 5
+u: source at 14347.321715466904: pump2 selected 100
+u: source at 14365.715533757668: pump3 selected 40
+u: source at 14381.284946631291: pump1 selected 30
+u: source at 14439.862376315143: pump2 selected 15
+u: source at 14447.156149413711: pump3 selected 100
+u: source at 14449.192037668276: pump1 selected 10
+u: source at 14457.687800894031: pump2 selected 75
+u: source at 14480.372430470845: pump3 selected 5
+u: source at 14485.089527809005: pump1 selected 60
+u: source at 14494.557139981902: pump2 selected 85
+u: source at 14495.906847794833: pump3 selected 80
+u: source at 14500.239662274185: pump1 selected 85
+u: source at 14506.585891801176: pump2 selected 5
+u: source at 14530.691846686068: pump3 selected 80
+u: source at 14532.476703329707: pump1 selected 60
+u: fuelTank at 14538.410946506852: DoneFuelTank
+u: source at 14538.596337468982: pump2 selected 65
+u: source at 14540.393290111979: pump3 selected 85
+u: source at 14549.761239449635: pump1 selected 80
+u: fuelPump3 at 14550.87863910489: process 50L 380L in Else
+u: fuelPump2 at 14553.18270275767: process 70L 350L in Else
+u: fuelPump1 at 14553.182746333021: process 100L 280L in Else
+u: fuelPump3 at 14559.324026631777: process 30L 210L in if
+u: fuelPump1 at 14563.74727284471: process 70L 145L in if
+u: source at 14565.724578667452: pump3 selected 55
+u: source at 14565.75745970532: pump1 selected 55
+u: fuelPump2 at 14565.832783666652: process 70L 140L in if
+u: fuelPump1 at 14569.625398182287: process 5L 75L in if
+u: source at 14574.935672261565: pump2 selected 65
+u: fuelPump3 at 14576.137493319333: process 65L 25L in if
+u: fuelPump3 at 14576.137493319333: orderFuelTank
+u: fuelPump1 at 14578.336812544121: process 50L 25L in if
+u: fuelPump2 at 14579.253526541908: process 65L 25L in if
+u: fuelPump2 at 14581.837555165434: process 15L 10L in if
+u: source at 14593.431190258454: pump2 selected 15
+u: source at 14627.451788010092: pump1 selected 55
+u: source at 14628.877882733264: pump2 selected 40
+u: source at 14649.963707663946: pump3 selected 5
+u: source at 14650.9299656758: pump1 selected 60
+u: source at 14661.368111826578: pump2 selected 75
+u: source at 14686.831734972335: pump3 selected 10
+u: source at 14696.30766436018: pump1 selected 15
+u: source at 14706.791020742194: pump2 selected 5
+u: source at 14707.458288486438: pump3 selected 30
+u: source at 14710.276169522425: pump1 selected 15
+u: source at 14728.453147185908: pump2 selected 10
+u: source at 14740.61888934572: pump3 selected 100
+u: source at 14759.409464757835: pump1 selected 55
+u: source at 14762.491547574784: pump2 selected 70
+u: source at 14795.60217686309: pump3 selected 45
+u: source at 14795.867183170221: pump1 selected 15
+u: source at 14796.72798829804: pump2 selected 55
+u: source at 14806.507263667048: pump3 selected 25
+u: source at 14838.239376459069: pump1 selected 100
+u: source at 14856.166649492223: pump2 selected 70
+u: source at 14875.137564810833: pump3 selected 15
+u: fuelTank at 14876.137493319333: DoneFuelTank
+u: source at 14884.213665123481: pump1 selected 30
+u: fuelPump1 at 14886.851857821253: process 75L 390L in Else
+u: fuelPump2 at 14888.362724894261: process 55L 320L in Else
+u: fuelPump3 at 14896.343565206196: process 80L 270L in Else
+u: fuelPump1 at 14897.282691658158: process 70L 240L in if
+u: source at 14900.325031427144: pump1 selected 55
+u: fuelPump2 at 14902.316387730189: process 50L 200L in if
+u: fuelPump3 at 14906.181465127213: process 30L 165L in if
+u: fuelPump1 at 14906.781715707875: process 40L 135L in if
+u: source at 14906.791277146893: pump2 selected 70
+u: fuelPump2 at 14912.515263260111: process 35L 120L in if
+u: fuelPump1 at 14913.852904552903: process 15L 40L in if
+u: fuelPump1 at 14913.852904552903: orderFuelTank
+u: fuelPump3 at 14916.65537305019: process 30L 40L in if
+u: source at 14922.932500701872: pump3 selected 85
+u: source at 14925.339806241367: pump1 selected 20
+u: fuelPump2 at 14927.821885959107: process 80L 40L in if
+u: source at 14935.669751118967: pump2 selected 70
+u: source at 14944.141149478844: pump2 selected 65
+u: source at 14951.787099784697: pump3 selected 70
+u: source at 14997.125996287345: pump1 selected 45
+u: source at 15037.854501232141: pump2 selected 5
+u: source at 15045.63778965561: pump3 selected 25
+u: source at 15046.813335576224: pump1 selected 50
+u: source at 15051.244850728892: pump2 selected 45
+u: source at 15057.123079473487: pump3 selected 10
+u: source at 15059.213402649657: pump1 selected 20
+u: source at 15064.389613135281: pump2 selected 100
+u: source at 15072.330961119991: pump3 selected 30
+u: source at 15073.499447404643: pump1 selected 40
+u: source at 15078.26164134802: pump2 selected 80
+u: source at 15087.901237834514: pump3 selected 60
+u: source at 15088.513416166656: pump1 selected 15
+u: source at 15109.977207620856: pump2 selected 90
+u: source at 15129.378471395048: pump3 selected 35
+u: source at 15131.179684188715: pump1 selected 30
+u: source at 15158.517154188126: pump2 selected 20
+u: source at 15163.782929573521: pump3 selected 85
+u: source at 15174.180094359652: pump1 selected 90
+u: source at 15186.001165747455: pump2 selected 25
+u: source at 15200.10376391435: pump3 selected 60
+u: source at 15213.275141280217: pump1 selected 95
+u: fuelTank at 15213.852904552903: DoneFuelTank
+u: fuelPump1 at 15228.122277650236: process 90L 335L in Else
+u: fuelPump2 at 15231.101315250744: process 90L 270L in Else
+u: fuelPump3 at 15232.23098418165: process 85L 255L in Else
+u: fuelPump2 at 15236.17076327347: process 15L 195L in if
+u: source at 15236.593297727713: pump2 selected 40
+u: source at 15237.36297583447: pump2 selected 70
+u: fuelPump1 at 15241.526518678116: process 65L 135L in if
+u: fuelPump3 at 15242.0976582009: process 60L 40L in if
+u: fuelPump3 at 15242.0976582009: orderFuelTank
+u: source at 15242.836228687383: pump3 selected 70
+u: source at 15243.695992876845: pump1 selected 15
+u: source at 15249.607931159882: pump3 selected 80
+u: fuelPump2 at 15251.043787417033: process 60L 40L in if
+u: fuelPump1 at 15253.12179727246: process 95L 40L in if
+u: fuelPump1 at 15259.52280348908: process 40L 0L in if
+u: source at 15282.733768801965: pump1 selected 40
+u: source at 15284.021942752692: pump1 selected 50
+u: source at 15301.754799744138: pump2 selected 75
+u: source at 15306.35037653553: pump1 selected 75
+u: source at 15314.573794034712: pump2 selected 50
+u: source at 15331.712804235118: pump3 selected 100
+u: source at 15335.763689089103: pump1 selected 80
+u: source at 15351.636754230149: pump2 selected 40
+u: source at 15362.389805432209: pump3 selected 40
+u: source at 15369.879410635252: pump1 selected 90
+u: source at 15386.00169784203: pump2 selected 40
+u: source at 15389.83610857516: pump3 selected 5
+u: source at 15392.08960684936: pump1 selected 10
+u: source at 15418.446578953928: pump2 selected 15
+u: source at 15421.679519633213: pump3 selected 60
+u: source at 15464.06656830229: pump1 selected 10
+u: source at 15465.680873405394: pump2 selected 45
+u: source at 15480.338133368681: pump3 selected 45
+u: source at 15482.270127142481: pump1 selected 85
+u: source at 15496.912075098075: pump2 selected 10
+u: source at 15503.507235780755: pump3 selected 80
+u: source at 15510.930142495017: pump1 selected 20
+u: source at 15522.990186528377: pump2 selected 95
+u: fuelTank at 15542.0976582009: DoneFuelTank
+u: source at 15545.08687338497: pump3 selected 30
+u: source at 15547.058408867173: pump1 selected 40
+u: source at 15552.914648969781: pump2 selected 25
+u: fuelPump1 at 15555.392963922528: process 75L 395L in Else
+u: fuelPump2 at 15555.564024130199: process 70L 315L in Else
+u: fuelPump3 at 15557.424517265632: process 60L 290L in Else
+u: fuelPump2 at 15562.134913309974: process 25L 215L in if
+u: source at 15563.511752930459: pump2 selected 30
+u: fuelPump1 at 15566.7334480752: process 80L 180L in if
+u: fuelPump1 at 15568.23942173998: process 10L 170L in if
+u: fuelPump3 at 15572.22141980823: process 75L 105L in if
+u: fuelPump2 at 15574.458158475816: process 35L 60L in if
+u: fuelPump1 at 15579.927591585692: process 65L 10L in if
+u: fuelPump1 at 15579.927591585692: orderFuelTank
+u: fuelPump3 at 15582.37008922309: process 45L 10L in if
+u: fuelPump2 at 15585.12572993991: process 50L 10L in if
+u: source at 15604.518412998594: pump1 selected 10
+u: source at 15610.343840662426: pump3 selected 80
+u: source at 15617.52794141326: pump1 selected 85
+u: source at 15644.637140096109: pump2 selected 5
+u: source at 15652.240166781976: pump3 selected 35
+u: source at 15675.826531735669: pump1 selected 25
+u: source at 15677.72214092737: pump2 selected 40
+u: source at 15680.404559664117: pump3 selected 80
+u: source at 15688.015648900198: pump1 selected 15
+u: source at 15692.53066308076: pump2 selected 30
+u: source at 15704.30678956928: pump3 selected 30
+u: source at 15731.043533746048: pump1 selected 85
+u: source at 15755.421771209729: pump2 selected 100
+u: source at 15793.26467997261: pump3 selected 80
+u: source at 15796.305118782695: pump1 selected 45
+u: source at 15796.307331586733: pump2 selected 35
+u: source at 15803.29172076525: pump3 selected 20
+u: source at 15841.032534920803: pump1 selected 25
+u: source at 15844.727888618543: pump2 selected 10
+u: source at 15848.162773873817: pump3 selected 80
+u: source at 15852.771061386273: pump1 selected 55
+u: source at 15864.343986907885: pump2 selected 15
+u: source at 15865.717367030442: pump3 selected 40
+u: fuelTank at 15879.927591585692: DoneFuelTank
+u: fuelPump1 at 15890.90487563087: process 70L 370L in Else
+u: source at 15892.155382371066: pump1 selected 10
+u: fuelPump3 at 15894.612433571678: process 80L 280L in Else
+u: fuelPump2 at 15895.01064543629: process 80L 195L in Else
+u: fuelPump1 at 15903.634064623056: process 90L 165L in if
+u: fuelPump2 at 15903.993314519277: process 30L 145L in if
+u: fuelPump1 at 15907.429421241595: process 20L 115L in if
+u: fuelPump2 at 15911.283709655478: process 30L 55L in if
+u: fuelPump3 at 15911.821812014412: process 85L 15L in if
+u: fuelPump3 at 15911.821812014412: orderFuelTank
+u: fuelPump1 at 15919.306880464503: process 60L 15L in if
+u: fuelPump2 at 15919.817414247178: process 40L 10L in if
+u: fuelPump1 at 15922.880577405318: process 5L 10L in if
+u: source at 15930.577741893729: pump1 selected 55
+u: source at 15931.317658949343: pump2 selected 80
+u: source at 15949.62638896798: pump1 selected 15
+u: source at 15976.50303280787: pump2 selected 45
+u: source at 15977.606285117288: pump1 selected 65
+u: source at 15982.217948099042: pump2 selected 55
+u: source at 15982.593704518804: pump3 selected 30
+u: source at 15994.967780543666: pump1 selected 35
+u: source at 16001.882775168066: pump2 selected 80
+u: source at 16012.656533336802: pump3 selected 30
+u: source at 16047.568990860385: pump1 selected 60
+u: source at 16055.153800584778: pump2 selected 100
+u: source at 16116.434051493954: pump3 selected 30
+u: source at 16120.048401182343: pump1 selected 20
+u: source at 16141.015009672343: pump2 selected 85
+u: source at 16152.05667696033: pump3 selected 25
+u: source at 16153.536037814618: pump1 selected 75
+u: source at 16155.185959258712: pump2 selected 35
+u: source at 16161.565552555292: pump3 selected 45
+u: source at 16171.104674305741: pump1 selected 85
+u: source at 16179.198954401256: pump2 selected 75
+u: source at 16185.284569824857: pump3 selected 20
+u: source at 16207.614412461482: pump1 selected 20
+u: fuelTank at 16211.821812014412: DoneFuelTank
+u: source at 16214.051384069595: pump2 selected 60
+u: fuelPump2 at 16222.195843384361: process 60L 445L in Else
+u: fuelPump1 at 16223.537835794652: process 65L 370L in Else
+u: fuelPump3 at 16227.630225529989: process 30L 290L in Else
+u: fuelPump2 at 16236.469628789393: process 75L 245L in if
+u: fuelPump1 at 16237.580378390028: process 80L 170L in if
+u: fuelPump1 at 16241.558376776371: process 25L 145L in if
+u: fuelPump3 at 16241.906233837546: process 45L 80L in if
+u: fuelPump3 at 16241.906233837546: orderFuelTank
+u: fuelPump2 at 16248.945557902636: process 75L 80L in if
+u: fuelPump1 at 16252.852414369494: process 65L 40L in if
+u: fuelPump2 at 16259.443239079053: process 40L 40L in if
+u: fuelPump2 at 16270.234531971817: process 40L 0L in if
+u: source at 16273.402590699287: pump2 selected 45
+u: source at 16295.383875017727: pump1 selected 90
+u: source at 16352.168288692577: pump2 selected 5
+u: source at 16354.863912966328: pump1 selected 80
+u: source at 16358.035998283434: pump2 selected 90
+u: source at 16371.870530317083: pump3 selected 60
+u: source at 16372.139388866979: pump1 selected 5
+u: source at 16377.691438685855: pump2 selected 60
+u: source at 16393.793056370654: pump3 selected 20
+u: source at 16396.708611123133: pump1 selected 90
+u: source at 16398.083980941286: pump2 selected 75
+u: source at 16418.494660383956: pump3 selected 60
+u: source at 16429.55998463358: pump1 selected 15
+u: source at 16442.063523166362: pump2 selected 60
+u: source at 16448.26914644891: pump3 selected 45
+u: source at 16452.245915306914: pump1 selected 55
+u: source at 16458.77036597678: pump2 selected 10
+u: source at 16463.489610342724: pump3 selected 15
+u: source at 16463.520265865995: pump1 selected 10
+u: source at 16479.745695695266: pump2 selected 45
+u: source at 16488.32900055139: pump3 selected 50
+u: source at 16506.750813729755: pump1 selected 65
+u: source at 16525.485725932343: pump2 selected 35
+u: source at 16539.37622390269: pump3 selected 30
+u: fuelTank at 16541.906233837544: DoneFuelTank
+u: fuelPump1 at 16553.977013615033: process 100L 320L in Else
+u: fuelPump2 at 16558.397390020764: process 80L 235L in Else
+u: fuelPump3 at 16561.48207191925: process 100L 185L in Else
+u: source at 16566.167609462827: pump1 selected 5
+u: fuelPump1 at 16566.28136324699: process 85L 130L in if
+u: fuelPump2 at 16566.296762709026: process 50L 30L in if
+u: fuelPump2 at 16573.5082447334: process 20L 10L in if
+u: fuelPump2 at 16573.5082447334: orderFuelTank
+u: fuelPump3 at 16575.421811944445: process 55L 10L in if
+u: fuelPump1 at 16581.23075752024: process 100L 10L in if
+u: source at 16621.220262742696: pump2 selected 20
+u: source at 16645.44490492646: pump1 selected 5
+u: source at 16657.301299324274: pump2 selected 40
+u: source at 16666.989265471377: pump3 selected 90
+u: source at 16668.739205102476: pump1 selected 90
+u: source at 16677.322541214744: pump2 selected 40
+u: source at 16681.639641864156: pump3 selected 5
+u: source at 16689.432720729772: pump1 selected 45
+u: source at 16755.41870018331: pump2 selected 60
+u: source at 16764.371864033485: pump3 selected 90
+u: source at 16774.63969951131: pump1 selected 95
+u: source at 16788.518237646123: pump2 selected 80
+u: source at 16834.37262172069: pump3 selected 45
+u: source at 16845.501542520786: pump1 selected 80
+u: source at 16848.141086671105: pump2 selected 45
+u: source at 16851.24002776938: pump3 selected 15
+u: source at 16851.965647185596: pump1 selected 55
+u: source at 16859.933626586077: pump2 selected 90
+u: source at 16866.070319338276: pump3 selected 35
+u: fuelTank at 16873.5082447334: DoneFuelTank
+u: fuelPump1 at 16884.15533957056: process 65L 420L in Else
+u: fuelPump3 at 16884.62099909159: process 30L 330L in Else
+u: fuelPump2 at 16891.672993294214: process 85L 295L in Else
+u: fuelPump3 at 16896.836714364566: process 35L 235L in if
+u: fuelPump1 at 16897.047489219658: process 90L 230L in if
+u: fuelPump3 at 16904.22086945692: process 5L 170L in if
+u: fuelPump2 at 16904.675711365162: process 60L 140L in if
+u: fuelPump1 at 16906.648354661123: process 60L 85L in if
+u: fuelPump1 at 16911.592315790465: process 15L 70L in if
+u: fuelPump3 at 16913.3036708022: process 30L 15L in if
+u: fuelPump3 at 16913.3036708022: orderFuelTank
+u: source at 16914.893814458632: pump1 selected 25
+u: fuelPump2 at 16917.23660504966: process 55L 15L in if
+u: fuelPump1 at 16921.69965621576: process 55L 0L in if
+u: fuelPump2 at 16923.513975082013: process 15L 0L in if
+u: source at 16924.614366752794: pump1 selected 25
+u: source at 16953.208251021224: pump2 selected 95
+u: source at 16976.413074868684: pump3 selected 95
+u: source at 16980.083724601936: pump1 selected 80
+u: source at 16992.394002458193: pump2 selected 75
+u: source at 17011.961847671646: pump3 selected 75
+u: source at 17016.738114183598: pump1 selected 80
+u: source at 17018.087539407516: pump2 selected 35
+u: source at 17020.051514262876: pump3 selected 100
+u: source at 17023.530957800274: pump1 selected 60
+u: source at 17025.69475162398: pump2 selected 100
+u: source at 17040.451125312342: pump3 selected 15
+u: source at 17041.75477035107: pump1 selected 85
+u: source at 17053.20897462618: pump2 selected 80
+u: source at 17085.243219147946: pump3 selected 85
+u: source at 17089.592214669174: pump1 selected 95
+u: source at 17093.536305409565: pump2 selected 60
+u: source at 17132.622136863967: pump3 selected 25
+u: source at 17153.796240967793: pump1 selected 100
+u: source at 17155.88806340199: pump2 selected 50
+u: source at 17175.35895763527: pump3 selected 80
+u: source at 17192.12510261892: pump1 selected 25
+u: source at 17192.574199843: pump2 selected 90
+u: source at 17192.869336640717: pump3 selected 80
+u: source at 17199.64141952027: pump1 selected 55
+u: fuelTank at 17213.3036708022: DoneFuelTank
+u: fuelPump2 at 17222.769698519824: process 20L 480L in Else
+u: fuelPump1 at 17224.808935356927: process 65L 410L in Else
+u: fuelPump3 at 17225.53502161568: process 35L 380L in Else
+u: source at 17226.706360450975: pump2 selected 65
+u: fuelPump1 at 17232.394445502367: process 30L 320L in if
+u: fuelPump2 at 17236.592412993385: process 70L 275L in if
+u: fuelPump3 at 17239.994545308346: process 60L 255L in if
+u: fuelPump1 at 17240.32816014693: process 45L 155L in if
+u: source at 17245.409156225556: pump1 selected 65
+u: fuelPump1 at 17246.120610628517: process 25L 130L in if
+u: fuelPump2 at 17246.86452774783: process 20L 40L in if
+u: fuelPump2 at 17253.55899182876: process 5L 35L in if
+u: fuelPump2 at 17253.55899182876: orderFuelTank
+u: fuelPump1 at 17257.000076032018: process 90L 35L in if
+u: fuelPump3 at 17257.05161969803: process 100L 35L in if
+u: source at 17258.760125484103: pump1 selected 50
+u: source at 17290.822803750216: pump2 selected 70
+u: source at 17291.03238093872: pump3 selected 40
+u: source at 17335.0995652622: pump1 selected 15
+u: source at 17348.403221289827: pump2 selected 70
+u: source at 17355.245448892863: pump3 selected 80
+u: source at 17359.700188743893: pump1 selected 80
+u: source at 17373.05719917915: pump2 selected 10
+u: source at 17382.529498955548: pump3 selected 25
+u: source at 17387.983318895505: pump1 selected 75
+u: source at 17448.571848206513: pump2 selected 75
+u: source at 17458.164208183585: pump3 selected 85
+u: source at 17461.67567738801: pump1 selected 20
+u: source at 17463.492184768216: pump2 selected 80
+u: source at 17463.74557386475: pump3 selected 65
+u: source at 17505.314885439107: pump1 selected 10
+u: source at 17515.783440473537: pump2 selected 35
+u: source at 17535.40967692552: pump3 selected 75
+u: fuelTank at 17553.55899182876: DoneFuelTank
+u: source at 17564.852501868598: pump1 selected 40
+u: source at 17565.836236763676: pump2 selected 5
+u: fuelPump2 at 17567.61353439543: process 50L 360L in Else
+u: fuelPump1 at 17567.667420739144: process 100L 315L in Else
+u: fuelPump1 at 17573.590992957663: process 25L 290L in if
+u: fuelPump3 at 17574.813596105017: process 90L 220L in Else
+u: fuelPump2 at 17576.80014935093: process 45L 200L in if
+u: source at 17582.990629436328: pump1 selected 70
+u: source at 17584.558267503566: pump2 selected 80
+u: fuelPump1 at 17584.610965917196: process 70L 100L in if
+u: fuelPump3 at 17585.16507262215: process 20L 45L in if
+u: fuelPump3 at 17585.16507262215: orderFuelTank
+u: fuelPump2 at 17592.132113399806: process 100L 45L in if
+u: fuelPump1 at 17595.96962734407: process 55L 45L in if
+u: source at 17599.860407097858: pump1 selected 35
+u: source at 17650.811690516148: pump3 selected 40
+u: source at 17704.89268485468: pump1 selected 70
+u: source at 17717.844641794196: pump2 selected 85
+u: source at 17720.139880489525: pump3 selected 20
+u: source at 17724.18251789085: pump1 selected 45
+u: source at 17734.711962623216: pump2 selected 10
+u: source at 17736.28229325801: pump3 selected 80
+u: source at 17758.435039800468: pump1 selected 55
+u: source at 17781.040397753764: pump2 selected 50
+u: source at 17787.9860486232: pump3 selected 15
+u: source at 17794.158864333283: pump1 selected 15
+u: source at 17802.81226984651: pump2 selected 55
+u: source at 17826.19987653899: pump3 selected 40
+u: source at 17832.499713270958: pump1 selected 35
+u: source at 17836.99218213161: pump2 selected 15
+u: source at 17849.628015083395: pump3 selected 75
+u: source at 17850.602788309523: pump1 selected 40
+u: source at 17867.26431054579: pump2 selected 75
+u: source at 17879.94509372181: pump3 selected 30
+u: source at 17880.55318420444: pump1 selected 75
+u: source at 17881.086194590964: pump2 selected 95
+u: fuelTank at 17885.16507262215: DoneFuelTank
+u: fuelPump1 at 17895.70402885765: process 50L 410L in Else
+u: fuelPump2 at 17899.565158074136: process 55L 405L in Else
+u: fuelPump1 at 17902.16677869943: process 5L 355L in if
+u: fuelPump3 at 17905.806225526845: process 85L 325L in Else
+u: fuelPump1 at 17905.878022768753: process 30L 260L in if
+u: fuelPump1 at 17910.626970136633: process 5L 255L in if
+u: fuelPump2 at 17911.134788470845: process 50L 215L in if
+u: fuelPump2 at 17914.56410127931: process 5L 210L in if
+u: fuelPump3 at 17917.29602683935: process 65L 150L in if
+u: fuelPump1 at 17917.863209108156: process 40L 95L in if
+u: fuelPump1 at 17925.365693154334: process 35L 60L in if
+u: fuelPump1 at 17925.365693154334: orderFuelTank
+u: fuelPump2 at 17927.71274316093: process 60L 60L in if
+u: fuelPump3 at 17928.923067631542: process 55L 30L in if
+u: fuelPump2 at 17935.697670344114: process 30L 30L in if
+u: fuelTank at 18225.365693154334: DoneFuelTank
+u: fuelPump1 at 18238.908827690528: process 65L 400L in Else
+u: fuelPump2 at 18240.737002794074: process 60L 320L in Else
+u: fuelPump3 at 18242.297101147695: process 75L 235L in Else
+u: fuelPump1 at 18250.241003522417: process 80L 155L in if
+u: fuelPump1 at 18253.168303041643: process 15L 140L in if
+u: fuelPump2 at 18256.37953390774: process 85L 65L in if
+u: fuelPump2 at 18256.37953390774: orderFuelTank
+u: fuelPump3 at 18259.042040817792: process 80L 65L in if
+u: fuelPump1 at 18264.327182529094: process 75L 65L in if
+u: fuelPump1 at 18269.819265447957: process 10L 55L in if
+u: fuelTank at 18556.37953390774: DoneFuelTank
+u: fuelPump1 at 18567.73704256214: process 65L 370L in Else
+u: fuelPump1 at 18572.50876593421: process 5L 365L in if
+u: fuelPump2 at 18572.707722473446: process 75L 350L in Else
+u: fuelPump3 at 18574.239249885744: process 90L 255L in Else
+u: fuelPump1 at 18578.323583620004: process 15L 240L in if
+u: fuelPump3 at 18581.765805709863: process 15L 230L in if
+u: fuelPump1 at 18583.55778862154: process 10L 130L in if
+u: fuelPump1 at 18588.893790989016: process 5L 125L in if
+u: fuelPump2 at 18590.273038516734: process 95L 65L in if
+u: fuelPump2 at 18590.273038516734: orderFuelTank
+u: fuelPump1 at 18600.526873513783: process 60L 65L in if
+u: fuelPump3 at 18601.844503179665: process 100L 60L in if
+u: fuelPump1 at 18604.634465635027: process 5L 0L in if
+u: fuelPump3 at 18614.473007334025: process 60L 0L in if
+u: fuelTank at 18890.273038516734: DoneFuelTank
+u: fuelPump1 at 18898.477145531026: process 20L 425L in Else
+u: fuelPump3 at 18905.05695282772: process 70L 405L in Else
+u: fuelPump2 at 18905.611665360735: process 85L 345L in Else
+u: fuelPump1 at 18908.118372597113: process 20L 295L in if
+u: fuelPump1 at 18915.138675125112: process 50L 245L in if
+u: fuelPump2 at 18916.0133697037: process 50L 215L in if
+u: fuelPump3 at 18918.621453664233: process 60L 140L in if
+u: fuelPump1 at 18924.168440738642: process 30L 45L in if
+u: fuelPump1 at 18924.168440738642: orderFuelTank
+u: fuelPump2 at 18930.3585963651: process 75L 45L in if
+u: fuelPump3 at 18933.789093101663: process 95L 40L in if
+u: fuelPump2 at 18940.061851644256: process 5L 40L in if
+u: fuelPump2 at 18943.79994313776: process 15L 25L in if
+u: fuelTank at 19224.168440738642: DoneFuelTank
+u: fuelPump1 at 19233.547574181008: process 75L 405L in Else
+u: fuelPump2 at 19236.11872031368: process 60L 315L in Else
+u: fuelPump3 at 19239.07671279073: process 60L 240L in Else
+u: fuelPump1 at 19247.195206293858: process 90L 205L in if
+u: fuelPump2 at 19249.172508095853: process 75L 105L in if
+u: fuelPump3 at 19251.636228861615: process 35L 75L in if
+u: fuelPump2 at 19257.34287288905: process 30L 15L in if
+u: fuelPump2 at 19257.34287288905: orderFuelTank
+u: fuelPump1 at 19260.002603441477: process 100L 15L in if
+u: fuelPump3 at 19265.18292527877: process 60L 15L in if
+u: fuelTank at 19557.34287288905: DoneFuelTank
+u: fuelPump1 at 19563.422171614282: process 35L 395L in Else
+u: fuelPump2 at 19570.39295313549: process 80L 360L in Else
+u: fuelPump1 at 19570.605780825557: process 35L 335L in if
+u: fuelPump3 at 19575.56680220918: process 90L 275L in Else
+u: fuelPump2 at 19577.649885869836: process 25L 260L in if
+u: fuelPump1 at 19581.395101291706: process 60L 195L in if
+u: fuelPump3 at 19581.908880522893: process 15L 190L in if
+u: fuelPump1 at 19585.143036385092: process 5L 90L in if
+u: fuelPump2 at 19591.004565104035: process 65L 15L in if
+u: fuelPump2 at 19591.004565104035: orderFuelTank
+u: fuelPump1 at 19596.906882478106: process 75L 15L in if
+u: fuelPump3 at 19600.209574487355: process 100L 15L in if
+u: fuelPump3 at 19608.793391512474: process 5L 10L in if
+u: fuelTank at 19891.004565104035: DoneFuelTank
+u: fuelPump1 at 19898.662611931308: process 30L 470L in Else
+u: fuelPump2 at 19901.765991246783: process 35L 430L in Else
+u: fuelPump1 at 19905.287432417976: process 40L 405L in if
+u: fuelPump3 at 19905.46254883086: process 65L 380L in Else
+u: fuelPump2 at 19911.3388741841: process 25L 345L in if
+u: fuelPump1 at 19912.479901167695: process 25L 280L in if
+u: fuelPump3 at 19917.981265954655: process 35L 235L in if
+u: fuelPump1 at 19918.788782790485: process 45L 215L in if
+u: fuelPump3 at 19926.39930748151: process 20L 165L in if
+u: fuelPump2 at 19926.97708656366: process 65L 65L in if
+u: fuelPump1 at 19928.182829577323: process 50L 50L in if
+u: fuelPump2 at 19934.645041218097: process 15L 15L in if
+u: fuelPump2 at 19934.645041218097: orderFuelTank
+u: fuelPump1 at 19934.786659224417: process 35L 15L in if
+u: fuelPump3 at 19945.20185744809: process 100L 15L in if
+u: fuelTank at 20234.645041218097: DoneFuelTank
+u: fuelPump1 at 20242.620385488626: process 45L 445L in Else
+u: fuelPump2 at 20246.185170532466: process 55L 370L in Else
+u: fuelPump3 at 20249.605083900573: process 55L 330L in Else
+u: fuelPump1 at 20253.56091846798: process 75L 285L in if
+u: fuelPump2 at 20255.797543808643: process 40L 260L in if
+u: fuelPump3 at 20260.22806820449: process 45L 175L in if
+u: fuelPump1 at 20260.999551709072: process 25L 100L in if
+u: fuelPump2 at 20268.238535788205: process 85L 0L in if
+u: fuelPump2 at 20268.238535788205: orderFuelTank
+u: fuelPump3 at 20277.046087053073: process 75L 0L in if
+u: fuelPump1 at 20277.480088658634: process 100L 0L in if
+u: fuelTank at 20568.238535788205: DoneFuelTank
+u: fuelPump3 at 20580.70561810796: process 75L 355L in Else
+u: fuelPump1 at 20582.276603685066: process 95L 280L in Else
+u: fuelPump2 at 20583.956592872324: process 75L 210L in Else
+u: fuelPump1 at 20595.777003679912: process 70L 145L in if
+u: fuelPump3 at 20597.819170764833: process 75L 95L in if
+u: fuelPump2 at 20598.72470142947: process 65L 15L in if
+u: fuelPump2 at 20598.72470142947: orderFuelTank
+u: fuelPump1 at 20602.436408688758: process 50L 15L in if
+u: fuelPump3 at 20614.445816924628: process 80L 15L in if
+u: fuelTank at 20898.72470142947: DoneFuelTank
+u: fuelPump2 at 20909.320929078996: process 20L 460L in Else
+u: fuelPump1 at 20910.62997680183: process 75L 380L in Else
+u: fuelPump3 at 20914.352956416737: process 45L 335L in Else
+u: fuelPump1 at 20920.08085276092: process 45L 275L in if
+u: fuelPump2 at 20923.008669874213: process 80L 205L in if
+u: fuelPump3 at 20927.824606414124: process 60L 155L in if
+u: fuelPump1 at 20930.77838745465: process 70L 70L in if
+u: fuelPump2 at 20935.70003594376: process 50L 60L in if
+u: fuelPump2 at 20935.70003594376: orderFuelTank
+u: fuelPump1 at 20936.702018646723: process 10L 60L in if
+u: fuelPump1 at 20944.462116565624: process 45L 15L in if
+u: fuelPump3 at 20944.85946927216: process 85L 15L in if
+u: fuelPump3 at 20954.757648755243: process 15L 0L in if
+u: fuelTank at 21235.70003594376: DoneFuelTank
+u: fuelPump1 at 21244.183143714836: process 30L 405L in Else
+u: fuelPump3 at 21249.672479051544: process 75L 385L in Else
+u: fuelPump2 at 21251.105514392802: process 90L 315L in Else
+u: fuelPump1 at 21251.690257923998: process 20L 305L in if
+u: fuelPump2 at 21254.869394377296: process 10L 250L in if
+u: fuelPump1 at 21261.608348777758: process 55L 175L in if
+u: fuelPump3 at 21262.241665564216: process 70L 110L in if
+u: fuelPump3 at 21269.530566503705: process 15L 95L in if
+u: fuelPump2 at 21270.1173355601: process 75L 15L in if
+u: fuelPump2 at 21270.1173355601: orderFuelTank
+u: fuelPump1 at 21273.309919834508: process 65L 15L in if
+u: fuelPump3 at 21285.219946427416: process 80L 15L in if
+u: fuelTank at 21570.1173355601: DoneFuelTank
+u: fuelPump1 at 21581.73016867319: process 75L 420L in Else
+u: fuelPump2 at 21582.367373340054: process 45L 350L in Else
+u: fuelPump3 at 21583.956358408323: process 60L 305L in Else
+u: fuelPump3 at 21592.32540597872: process 20L 285L in if
+u: fuelPump1 at 21593.93894848616: process 70L 185L in if
+u: fuelPump2 at 21594.677959349043: process 45L 130L in if
+u: fuelPump1 at 21604.498150884734: process 55L 100L in if
+u: fuelPump2 at 21604.69035304938: process 30L 80L in if
+u: fuelPump3 at 21607.61946748799: process 100L 15L in if
+u: fuelPump3 at 21607.61946748799: orderFuelTank
+u: fuelPump1 at 21608.847523162567: process 20L 15L in if
+u: fuelPump2 at 21618.691986891732: process 65L 15L in if
+u: fuelTank at 21907.61946748799: DoneFuelTank
+u: fuelPump2 at 21920.227285940156: process 80L 370L in Else
+u: fuelPump1 at 21920.334464304186: process 85L 325L in Else
+u: fuelPump3 at 21922.397304816477: process 65L 305L in Else
+u: fuelPump1 at 21924.9001172067: process 20L 265L in if
+u: fuelPump3 at 21929.653334751463: process 40L 260L in if
+u: fuelPump2 at 21931.368300302205: process 45L 160L in if
+u: fuelPump1 at 21932.648959994785: process 5L 65L in if
+u: fuelPump1 at 21932.648959994785: orderFuelTank
+u: fuelPump2 at 21946.264850161228: process 95L 65L in if
+u: fuelPump3 at 21948.89346375417: process 100L 25L in if
+u: fuelPump2 at 21955.67748434529: process 40L 25L in if
+u: fuelTank at 22232.648959994785: DoneFuelTank
+u: fuelPump2 at 22244.90428570952: process 50L 410L in Else
+u: fuelPump1 at 22245.023256318404: process 75L 395L in Else
+u: fuelPump3 at 22247.07459736472: process 65L 365L in Else
+u: fuelPump1 at 22251.034028552876: process 30L 300L in if
+u: fuelPump2 at 22252.514396387687: process 15L 275L in if
+u: fuelPump1 at 22258.691342367456: process 25L 225L in if
+u: fuelPump3 at 22259.501415142557: process 65L 220L in if
+u: fuelPump1 at 22261.299948940403: process 5L 130L in if
+u: fuelPump2 at 22264.432977744807: process 50L 45L in if
+u: fuelPump1 at 22274.918383595366: process 85L 0L in if
+u: fuelPump1 at 22274.918383595366: orderFuelTank
+u: fuelPump3 at 22276.39123127098: process 90L 0L in if
+u: fuelPump2 at 22276.510643801103: process 45L 0L in if
+u: fuelTank at 22574.918383595366: DoneFuelTank
+u: fuelPump1 at 22580.573314778165: process 20L 515L in Else
+u: fuelPump2 at 22584.264691678152: process 35L 475L in Else
+u: fuelPump3 at 22586.254737122224: process 30L 400L in Else
+u: fuelPump1 at 22588.974741917744: process 40L 390L in if
+u: fuelPump3 at 22595.545569578433: process 10L 315L in if
+u: fuelPump2 at 22597.61377655289: process 75L 245L in if
+u: fuelPump1 at 22599.616207997336: process 75L 215L in if
+u: fuelPump2 at 22604.792187083076: process 30L 155L in if
+u: fuelPump3 at 22609.53424081449: process 70L 150L in if
+u: fuelPump1 at 22610.286754832254: process 60L 95L in if
+u: fuelPump2 at 22614.959080989844: process 5L 65L in if
+u: fuelPump2 at 22614.959080989844: orderFuelTank
+u: fuelPump1 at 22617.480794754752: process 30L 65L in if
+u: fuelPump3 at 22623.16069370377: process 55L 65L in if
+u: fuelPump3 at 22637.92992040048: process 60L 5L in if
+u: fuelTank at 22914.959080989844: DoneFuelTank
+u: fuelPump3 at 22928.699896651022: process 30L 385L in Else
+u: fuelPump1 at 22929.208065209466: process 90L 365L in Else
+u: fuelPump2 at 22930.73934585239: process 95L 340L in Else
+u: fuelPump1 at 22935.119783079303: process 25L 315L in if
+u: fuelPump2 at 22938.416391205115: process 25L 275L in if
+u: fuelPump3 at 22939.610635203422: process 20L 240L in if
+u: fuelPump1 at 22941.325714995168: process 40L 165L in if
+u: fuelPump2 at 22947.322830698646: process 35L 70L in if
+u: fuelPump2 at 22947.322830698646: orderFuelTank
+u: fuelPump3 at 22955.709918921966: process 75L 70L in if
+u: fuelPump1 at 22956.84671449253: process 95L 70L in if
+u: fuelPump1 at 22959.651144198768: process 5L 65L in if
+u: fuelTank at 23247.322830698646: DoneFuelTank
+u: fuelPump1 at 23260.502364960903: process 75L 345L in Else
+u: fuelPump3 at 23263.243273815482: process 80L 320L in Else
+u: fuelPump1 at 23267.03664042344: process 25L 270L in if
+u: fuelPump2 at 23267.680973149654: process 100L 190L in Else
+u: fuelPump3 at 23275.546597786913: process 50L 115L in if
+u: fuelPump1 at 23277.266560702537: process 80L 35L in if
+u: fuelPump2 at 23283.15796940608: process 75L 0L in if
+u: fuelPump2 at 23283.15796940608: orderFuelTank
+u: fuelPump1 at 23284.49209811566: process 35L 0L in if
+u: fuelPump3 at 23292.583237562194: process 80L 0L in if
+u: fuelTank at 23583.15796940608: DoneFuelTank
+u: fuelPump1 at 23589.35442914143: process 35L 500L in Else
+u: fuelPump2 at 23593.422846835954: process 10L 470L in Else
+u: fuelPump1 at 23596.69217172067: process 30L 415L in if
+u: fuelPump3 at 23598.77430588322: process 55L 375L in Else
+u: fuelPump1 at 23604.240515152746: process 40L 310L in if
+u: fuelPump2 at 23605.788339091436: process 55L 230L in if
+u: fuelPump3 at 23613.545783642337: process 65L 160L in if
+u: fuelPump1 at 23617.69059090554: process 80L 130L in if
+u: fuelPump2 at 23620.74375939403: process 70L 40L in if
+u: fuelPump1 at 23628.69752744539: process 90L 0L in if
+u: fuelPump1 at 23628.69752744539: orderFuelTank
+u: fuelPump3 at 23629.450020331333: process 30L 0L in if
+u: fuelPump2 at 23629.90664294167: process 40L 0L in if
+u: fuelTank at 23928.69752744539: DoneFuelTank
+u: fuelPump2 at 23941.02661586772: process 75L 385L in Else
+u: fuelPump3 at 23941.53249383552: process 50L 350L in Else
+u: fuelPump1 at 23943.34664868844: process 90L 280L in Else
+u: fuelPump2 at 23948.89042538679: process 35L 225L in if
+u: fuelPump1 at 23952.791958146103: process 55L 190L in if
+u: fuelPump3 at 23957.275527762373: process 70L 130L in if
+u: fuelPump2 at 23957.965142027802: process 35L 105L in if
+u: fuelPump1 at 23962.082378089635: process 60L 85L in if
+u: fuelPump2 at 23968.330727744746: process 20L 45L in if
+u: fuelPump3 at 23969.83051754825: process 25L 20L in if
+u: fuelPump3 at 23969.83051754825: orderFuelTank
+u: fuelPump1 at 23970.69437821139: process 40L 20L in if
+u: fuelPump2 at 23975.2099425964: process 25L 20L in if
+u: fuelTank at 24269.83051754825: DoneFuelTank
+u: fuelPump1 at 24280.40270578349: process 65L 425L in Else
+u: fuelPump3 at 24283.12076769022: process 45L 395L in Else
+u: fuelPump2 at 24283.271203513523: process 65L 330L in Else
+u: fuelPump1 at 24286.67912062521: process 30L 285L in if
+u: fuelPump1 at 24291.623798336015: process 30L 255L in if
+u: fuelPump2 at 24294.295581087095: process 45L 225L in if
+u: fuelPump1 at 24297.6347414902: process 30L 165L in if
+u: fuelPump3 at 24299.236671405575: process 65L 95L in if
+u: fuelPump1 at 24306.8775952155: process 70L 40L in if
+u: fuelPump2 at 24308.040762934514: process 60L 10L in if
+u: fuelPump2 at 24308.040762934514: orderFuelTank
+u: fuelPump1 at 24311.612738932043: process 30L 10L in if
+u: fuelPump3 at 24313.52383132581: process 55L 10L in if
+u: fuelTank at 24608.040762934514: DoneFuelTank
+u: fuelPump1 at 24614.237889712178: process 35L 490L in Else
+u: fuelPump3 at 24617.954837078138: process 20L 455L in Else
+u: fuelPump2 at 24621.118463809504: process 55L 430L in Else
+u: fuelPump1 at 24622.08498750353: process 35L 330L in if
+u: fuelPump3 at 24627.783702006454: process 25L 290L in if
+u: fuelPump1 at 24631.863346131053: process 40L 280L in if
+u: fuelPump3 at 24633.888073526723: process 10L 270L in if
+u: fuelPump1 at 24636.312012348375: process 10L 190L in if
+u: fuelPump2 at 24637.476490423374: process 100L 130L in if
+u: fuelPump1 at 24646.10720373665: process 60L 40L in if
+u: fuelPump3 at 24647.175487018867: process 80L 5L in if
+u: fuelPump3 at 24647.175487018867: orderFuelTank
+u: fuelPump2 at 24652.245338129313: process 90L 5L in if
+u: fuelPump1 at 24653.19462603329: process 35L 5L in if
+u: fuelTank at 24947.175487018867: DoneFuelTank
+u: fuelPump2 at 24953.7193831519: process 15L 475L in Else
+u: fuelPump2 at 24959.383757135853: process 5L 470L in if
+u: fuelPump3 at 24959.646022745095: process 25L 405L in Else
+u: fuelPump1 at 24961.42358346844: process 85L 395L in Else
+u: fuelPump3 at 24967.41602481054: process 10L 385L in if
+u: fuelPump1 at 24968.87063504763: process 10L 335L in if
+u: fuelPump2 at 24972.376111171576: process 65L 330L in if
+u: fuelPump1 at 24973.560488955536: process 5L 295L in if
+u: fuelPump1 at 24978.532495958207: process 30L 265L in if
+u: fuelPump3 at 24980.85680272268: process 50L 255L in if
+u: fuelPump2 at 24984.33933505653: process 35L 155L in if
+u: fuelPump1 at 24984.65058714216: process 10L 65L in if
+u: fuelPump1 at 24994.559450511904: process 60L 5L in if
+u: fuelPump1 at 24994.559450511904: orderFuelTank
+u: fuelPump3 at 24995.9421124075: process 100L 5L in if
+u: fuelPump2 at 24997.722580994905: process 90L 5L in if
+u: fuelPump2 at 25003.700533596402: process 5L 0L in if
+u: fuelTank at 25294.559450511904: DoneFuelTank
+u: fuelPump3 at 25307.228537784766: process 45L 410L in Else
+u: fuelPump1 at 25309.968939859195: process 85L 320L in Else
+u: fuelPump2 at 25310.43664202004: process 60L 260L in Else
+u: fuelPump2 at 25319.067276524424: process 5L 255L in if
+u: fuelPump1 at 25321.46842472911: process 60L 165L in if
+u: fuelPump3 at 25322.615814386463: process 90L 85L in if
+u: fuelPump2 at 25333.32683478503: process 90L 45L in if
+u: fuelPump2 at 25333.32683478503: orderFuelTank
+u: fuelPump1 at 25335.381187427553: process 80L 45L in if
+u: fuelPump3 at 25335.94867054034: process 40L 45L in if
+u: fuelTank at 25633.32683478503: DoneFuelTank
+u: fuelPump1 at 25642.56752569571: process 55L 440L in Else
+u: fuelPump2 at 25644.532517774827: process 50L 385L in Else
+u: fuelPump3 at 25645.68897722726: process 55L 330L in Else
+u: fuelPump1 at 25651.43599212005: process 55L 280L in if
+u: fuelPump3 at 25656.322759276634: process 50L 220L in if
+u: fuelPump2 at 25659.01222014849: process 55L 135L in if
+u: fuelPump1 at 25660.634577422: process 60L 65L in if
+u: fuelPump1 at 25666.27133235877: process 15L 50L in if
+u: fuelPump3 at 25670.64808838865: process 85L 35L in if
+u: fuelPump3 at 25670.64808838865: orderFuelTank
+u: fuelPump1 at 25671.419279457972: process 15L 35L in if
+u: fuelPump2 at 25672.902489856697: process 70L 35L in if
+u: fuelTank at 25970.64808838865: DoneFuelTank
+u: fuelPump1 at 25979.541692792514: process 55L 360L in Else
+u: fuelPump1 at 25984.040327769762: process 15L 345L in if
+u: fuelPump2 at 25986.82844461588: process 85L 245L in Else
+u: fuelPump3 at 25990.13373758476: process 100L 215L in Else
+u: fuelPump2 at 25995.814792765657: process 30L 120L in if
+u: fuelPump1 at 25997.357057048364: process 100L 35L in if
+u: fuelPump1 at 26005.2113029785: process 30L 5L in if
+u: fuelPump1 at 26005.2113029785: orderFuelTank
+u: fuelPump3 at 26009.846369541054: process 95L 5L in if
+u: fuelPump2 at 26010.07803108777: process 85L 5L in if
+u: fuelTank at 26305.2113029785: DoneFuelTank
+u: fuelPump1 at 26314.595263192867: process 55L 375L in Else
+u: fuelPump2 at 26318.63647604656: process 90L 355L in Else
+u: fuelPump1 at 26320.25426512672: process 20L 340L in if
+u: fuelPump3 at 26323.39498135714: process 80L 295L in Else
+u: fuelPump2 at 26325.484517213703: process 15L 265L in if
+u: fuelPump1 at 26326.37649517135: process 45L 225L in if
+u: fuelPump3 at 26332.216628352115: process 30L 175L in if
+u: fuelPump1 at 26335.750211442108: process 50L 100L in if
+u: fuelPump2 at 26337.14686459912: process 40L 80L in if
+u: fuelPump1 at 26342.252855105766: process 20L 35L in if
+u: fuelPump1 at 26342.252855105766: orderFuelTank
+u: fuelPump3 at 26346.427335744178: process 75L 35L in if
+u: fuelPump2 at 26348.94724292636: process 45L 35L in if
+u: fuelTank at 26642.252855105766: DoneFuelTank
+u: fuelPump1 at 26651.81614630566: process 40L 420L in Else
+u: fuelPump3 at 26656.825665521104: process 75L 405L in Else
+u: fuelPump2 at 26657.272663520267: process 65L 325L in Else
+u: fuelPump1 at 26657.92615690081: process 15L 245L in if
+u: fuelPump1 at 26664.690287554502: process 30L 215L in if
+u: fuelPump3 at 26670.32992647241: process 80L 125L in if
+u: fuelPump2 at 26671.835559734347: process 80L 70L in if
+u: fuelPump1 at 26678.450434338432: process 90L 25L in if
+u: fuelPump1 at 26678.450434338432: orderFuelTank
+u: fuelPump2 at 26681.91263341462: process 45L 25L in if
+u: fuelPump3 at 26684.24524620976: process 55L 5L in if
+u: fuelPump2 at 26691.145301192915: process 20L 5L in if
+u: fuelTank at 26978.450434338432: DoneFuelTank
+u: fuelPump2 at 26991.720849645342: process 100L 305L in Else
+u: fuelPump1 at 26992.41666133839: process 95L 260L in Else
+u: fuelPump3 at 26996.723654055495: process 100L 245L in Else
+u: fuelPump1 at 26999.334522388865: process 15L 235L in if
+u: fuelPump2 at 27000.315375434948: process 45L 195L in if
+u: fuelPump1 at 27006.772975304946: process 40L 170L in if
+u: fuelPump3 at 27006.980332465373: process 10L 120L in if
+u: fuelPump2 at 27009.696318605198: process 25L 40L in if
+u: fuelPump1 at 27013.39027433242: process 50L 25L in if
+u: fuelPump1 at 27013.39027433242: orderFuelTank
+u: fuelPump2 at 27018.75741460129: process 15L 25L in if
+u: fuelPump3 at 27021.705669096405: process 80L 5L in if
+u: fuelPump2 at 27027.312503642057: process 20L 5L in if
+u: fuelTank at 27313.39027433242: DoneFuelTank
+u: fuelPump1 at 27326.484165727863: process 75L 345L in Else
+u: fuelPump3 at 27331.311386361594: process 85L 265L in Else
+u: fuelPump2 at 27331.446031120344: process 95L 175L in Else
+u: fuelPump1 at 27340.757545287506: process 80L 135L in if
+u: fuelPump2 at 27342.593198464485: process 40L 45L in if
+u: fuelPump3 at 27350.239500519794: process 90L 20L in if
+u: fuelPump3 at 27350.239500519794: orderFuelTank
+u: fuelPump1 at 27353.42789008: process 90L 20L in if
+u: fuelPump2 at 27354.23770202707: process 25L 10L in if
+u: fuelPump1 at 27359.895787513396: process 10L 10L in if
+u: fuelPump1 at 27363.404382873316: process 10L 0L in if
+u: fuelTank at 27650.239500519794: DoneFuelTank
+u: fuelPump2 at 27660.13488635815: process 15L 460L in Else
+u: fuelPump1 at 27662.933145913074: process 85L 385L in Else
+u: fuelPump3 at 27665.214702178142: process 40L 365L in Else
+u: fuelPump1 at 27668.311256086985: process 20L 345L in if
+u: fuelPump2 at 27674.510742636576: process 75L 305L in if
+u: fuelPump3 at 27676.10777122217: process 20L 205L in if
+u: fuelPump1 at 27678.20021518629: process 40L 155L in if
+u: fuelPump1 at 27681.087303220196: process 10L 145L in if
+u: fuelPump3 at 27689.11700356096: process 50L 60L in if
+u: fuelPump2 at 27691.350278725597: process 100L 15L in if
+u: fuelPump2 at 27691.350278725597: orderFuelTank
+u: fuelPump1 at 27692.70170404741: process 85L 15L in if
+u: fuelPump3 at 27700.96691599111: process 45L 15L in if
+u: fuelTank at 27991.350278725597: DoneFuelTank
+u: fuelPump1 at 28000.105456823923: process 25L 380L in Else
+u: fuelPump1 at 28003.722510468124: process 15L 365L in if
+u: fuelPump3 at 28008.56700124821: process 95L 280L in Else
+u: fuelPump2 at 28011.52674941204: process 100L 270L in Else
+u: fuelPump1 at 28016.564495164595: process 85L 255L in if
+u: fuelPump3 at 28016.68249184289: process 10L 210L in if
+u: fuelPump2 at 28018.695036476372: process 15L 170L in if
+u: fuelPump1 at 28022.745396405735: process 45L 95L in if
+u: fuelPump3 at 28026.729857130944: process 40L 70L in if
+u: fuelPump1 at 28027.303238495922: process 25L 65L in if
+u: fuelPump2 at 28030.643490855906: process 75L 10L in if
+u: fuelPump2 at 28030.643490855906: orderFuelTank
+u: fuelPump3 at 28032.84123786576: process 5L 10L in if
+u: fuelPump1 at 28038.173378172647: process 55L 10L in if
+u: fuelPump1 at 28046.38821064618: process 10L 0L in if
+u: fuelTank at 28330.643490855906: DoneFuelTank
+u: fuelPump1 at 28340.0288381671: process 55L 430L in Else
+u: fuelPump3 at 28340.196681244553: process 30L 415L in Else
+u: fuelPump1 at 28343.015775315485: process 15L 395L in if
+u: fuelPump2 at 28347.686320099507: process 85L 330L in Else
+u: fuelPump3 at 28350.32678300204: process 20L 325L in if
+u: fuelPump2 at 28354.132233316468: process 5L 295L in if
+u: fuelPump1 at 28355.90755357931: process 65L 230L in if
+u: fuelPump3 at 28362.998819261997: process 30L 195L in if
+u: fuelPump1 at 28364.817881877774: process 35L 190L in if
+u: fuelPump2 at 28367.693349881283: process 65L 130L in if
+u: fuelPump3 at 28370.059042071993: process 5L 65L in if
+u: fuelPump3 at 28370.059042071993: orderFuelTank
+u: fuelPump1 at 28376.230628833753: process 60L 65L in if
+u: fuelPump1 at 28383.751468524857: process 20L 45L in if
+u: fuelPump2 at 28385.137116278165: process 65L 45L in if
+u: fuelPump2 at 28391.28124861097: process 15L 30L in if
+u: fuelTank at 28670.059042071993: DoneFuelTank
+u: fuelPump2 at 28678.430103217914: process 40L 405L in Else
+u: fuelPump1 at 28682.820958218832: process 75L 330L in Else
+u: fuelPump3 at 28686.62792187545: process 80L 245L in Else
+u: fuelPump2 at 28692.551325406337: process 75L 145L in if
+u: fuelPump2 at 28696.53030203087: process 5L 140L in if
+u: fuelPump1 at 28696.563578468165: process 85L 130L in if
+u: fuelPump1 at 28701.393126575913: process 20L 110L in if
+u: fuelPump3 at 28703.258069600757: process 100L 20L in if
+u: fuelPump3 at 28703.258069600757: orderFuelTank
+u: fuelPump2 at 28704.849630584442: process 10L 20L in if
+u: fuelPump1 at 28712.900773111924: process 90L 20L in if
+u: fuelTank at 29003.258069600757: DoneFuelTank
+u: fuelPump1 at 29014.361936703877: process 80L 420L in Else
+u: fuelPump3 at 29016.56713079926: process 30L 415L in Else
+u: fuelPump2 at 29017.077255109074: process 70L 395L in Else
+u: fuelPump1 at 29018.802484169373: process 5L 340L in if
+u: fuelPump3 at 29025.059732751844: process 20L 250L in if
+u: fuelPump1 at 29029.242153550735: process 90L 150L in if
+u: fuelPump2 at 29031.24372751563: process 55L 135L in if
+u: fuelPump1 at 29035.460314791395: process 15L 65L in if
+u: fuelPump3 at 29044.25948977352: process 100L 10L in if
+u: fuelPump3 at 29044.25948977352: orderFuelTank
+u: fuelPump2 at 29044.92515514907: process 70L 10L in if
+u: fuelPump1 at 29045.792349490286: process 55L 10L in if
+u: fuelPump1 at 29054.060704517684: process 10L 0L in if
+u: fuelTank at 29344.25948977352: DoneFuelTank
+u: fuelPump1 at 29353.976463456198: process 65L 420L in Else
+u: fuelPump3 at 29356.790223686934: process 45L 415L in Else
+u: fuelPump2 at 29358.43787025018: process 70L 340L in Else
+u: fuelPump1 at 29360.722905257: process 5L 270L in if
+u: fuelPump1 at 29366.506902918398: process 5L 265L in if
+u: fuelPump2 at 29373.31675464649: process 70L 175L in if
+u: fuelPump3 at 29374.277234757534: process 75L 110L in if
+u: fuelPump1 at 29378.855106653864: process 90L 30L in if
+u: fuelPump1 at 29378.855106653864: orderFuelTank
+u: fuelPump2 at 29385.450131109596: process 65L 30L in if
+u: fuelPump2 at 29389.717594100122: process 5L 25L in if
+u: fuelPump3 at 29392.76748903928: process 80L 25L in if
+u: fuelTank at 29678.855106653864: DoneFuelTank
+u: fuelPump1 at 29685.714677770826: process 45L 455L in Else
+u: fuelPump2 at 29687.858165432815: process 45L 360L in Else
+u: fuelPump3 at 29691.937063681642: process 55L 260L in Else
+u: fuelPump1 at 29699.60955053549: process 95L 180L in if
+u: fuelPump2 at 29706.77966320396: process 100L 100L in if
+u: fuelPump3 at 29709.892086074477: process 80L 20L in if
+u: fuelPump3 at 29709.892086074477: orderFuelTank
+u: fuelPump1 at 29711.528236833386: process 80L 20L in if
+u: fuelPump2 at 29721.680594004367: process 80L 20L in if
+u: fuelTank at 30009.892086074477: DoneFuelTank
+u: fuelPump1 at 30018.91466257057: process 55L 380L in Else
+u: fuelPump1 at 30024.82076507178: process 25L 355L in if
+u: fuelPump3 at 30025.569725248017: process 75L 330L in Else
+u: fuelPump2 at 30028.017742323904: process 90L 250L in Else
+u: fuelPump1 at 30032.829170770867: process 25L 230L in if
+u: fuelPump2 at 30036.835366294323: process 20L 150L in if
+u: fuelPump3 at 30042.837605361754: process 80L 125L in if
+u: fuelPump2 at 30044.622456187597: process 25L 85L in if
+u: fuelPump1 at 30046.198220154783: process 80L 45L in if
+u: fuelPump1 at 30046.198220154783: orderFuelTank
+u: fuelPump2 at 30052.99494883141: process 40L 45L in if
+u: fuelPump3 at 30055.5811349904: process 40L 45L in if
+u: fuelTank at 30346.198220154783: DoneFuelTank
+u: fuelPump1 at 30360.87503501013: process 80L 350L in Else
+u: fuelPump2 at 30362.845163436556: process 70L 290L in Else
+u: fuelPump3 at 30365.48700043144: process 100L 215L in Else
+u: fuelPump1 at 30369.867742794453: process 60L 210L in if
+u: fuelPump3 at 30373.68926606983: process 5L 125L in if
+u: fuelPump2 at 30375.00776669805: process 75L 45L in if
+u: fuelPump2 at 30375.00776669805: orderFuelTank
+u: fuelPump1 at 30380.084257693456: process 85L 45L in if
+u: fuelPump3 at 30388.96605853119: process 80L 45L in if
+u: fuelTank at 30675.00776669805: DoneFuelTank
+u: fuelPump1 at 30686.85459780184: process 95L 375L in Else
+u: fuelPump2 at 30686.90053409315: process 50L 275L in Else
+u: fuelPump3 at 30690.11554314484: process 80L 235L in Else
+u: fuelPump2 at 30694.44775162571: process 40L 150L in if
+u: fuelPump1 at 30700.589541413403: process 100L 110L in if
+u: fuelPump2 at 30705.28707087886: process 40L 85L in if
+u: fuelPump3 at 30707.353156791316: process 85L 70L in if
+u: fuelPump1 at 30707.650480268017: process 25L 15L in if
+u: fuelPump1 at 30707.650480268017: orderFuelTank
+u: fuelPump2 at 30711.851181054073: process 15L 15L in if
+u: fuelPump3 at 30718.300946218802: process 55L 15L in if
+u: fuelPump3 at 30725.96942569691: process 5L 10L in if
+u: fuelPump3 at 30735.508965036293: process 10L 0L in if
+u: fuelTank at 31007.650480268017: DoneFuelTank
+u: fuelPump2 at 31016.57718032312: process 45L 470L in Else
+u: fuelPump3 at 31017.897886240567: process 30L 460L in Else
+u: fuelPump1 at 31019.356318474463: process 55L 360L in Else
+u: fuelPump2 at 31023.30951181268: process 10L 295L in if
+u: fuelPump1 at 31031.462892853906: process 65L 200L in if
+u: fuelPump3 at 31034.95722606332: process 100L 150L in if
+u: fuelPump2 at 31039.289684875115: process 95L 105L in if
+u: fuelPump1 at 31039.69312530504: process 50L 80L in if
+u: fuelPump1 at 31044.936609874036: process 15L 65L in if
+u: fuelPump1 at 31044.936609874036: orderFuelTank
+u: fuelPump3 at 31045.716097121327: process 45L 65L in if
+u: fuelPump2 at 31051.488965724973: process 25L 40L in if
+u: fuelPump3 at 31056.168242077525: process 25L 10L in if
+u: fuelPump2 at 31063.346673684126: process 30L 10L in if
+u: fuelPump2 at 31072.61848542301: process 5L 5L in if
+u: fuelTank at 31344.936609874036: DoneFuelTank
+u: fuelPump2 at 31354.86881956731: process 40L 465L in Else
+u: fuelPump1 at 31355.8002550754: process 80L 435L in Else
+u: fuelPump3 at 31356.709517974286: process 15L 360L in Else
+u: fuelPump2 at 31367.283943995215: process 30L 275L in if
+u: fuelPump1 at 31368.388257358674: process 75L 175L in if
+u: fuelPump1 at 31373.4000584697: process 20L 155L in if
+u: fuelPump3 at 31376.43092575569: process 85L 145L in if
+u: fuelPump1 at 31379.703884938866: process 10L 75L in if
+u: fuelPump2 at 31382.11954212101: process 100L 35L in if
+u: fuelPump1 at 31389.478207855555: process 40L 0L in if
+u: fuelPump1 at 31389.478207855555: orderFuelTank
+u: fuelPump3 at 31393.15047876077: process 70L 0L in if
+u: fuelPump2 at 31395.075896373346: process 35L 0L in if
+u: fuelTank at 31689.478207855555: DoneFuelTank
+u: fuelPump2 at 31695.890467737503: process 10L 495L in Else
+u: fuelPump3 at 31697.229688249066: process 25L 480L in Else
+u: fuelPump2 at 31699.742191716992: process 15L 470L in if
+u: fuelPump1 at 31700.532035388682: process 70L 390L in Else
+u: fuelPump1 at 31706.457703431224: process 35L 355L in if
+u: fuelPump3 at 31707.320873110646: process 10L 285L in if
+u: fuelPump2 at 31713.17074846917: process 80L 255L in if
+u: fuelPump3 at 31716.296645569346: process 30L 210L in if
+u: fuelPump1 at 31717.78578696532: process 70L 150L in if
+u: fuelPump1 at 31727.143458250437: process 45L 105L in if
+u: fuelPump2 at 31727.711529242908: process 45L 50L in if
+u: fuelPump2 at 31727.711529242908: orderFuelTank
+u: fuelPump3 at 31728.77060451566: process 60L 50L in if
+u: fuelPump1 at 31737.186342004145: process 55L 15L in if
+u: fuelPump1 at 31739.245844513836: process 15L 0L in if
+u: fuelPump3 at 31740.189002682484: process 35L 0L in if
+u: fuelTank at 32027.711529242908: DoneFuelTank
+u: fuelPump1 at 32036.539538453988: process 35L 425L in Else
+u: fuelPump2 at 32038.20766242481: process 55L 385L in Else
+u: fuelPump3 at 32045.231330256225: process 85L 305L in Else
+u: fuelPump1 at 32045.262224075763: process 40L 245L in if
+u: fuelPump2 at 32051.85627789654: process 80L 170L in if
+u: fuelPump1 at 32057.508175485276: process 75L 70L in if
+u: fuelPump3 at 32058.760511839395: process 60L 70L in if
+u: fuelPump2 at 32063.744023095882: process 100L 0L in if
+u: fuelPump2 at 32063.744023095882: orderFuelTank
+u: fuelPump3 at 32075.65036362289: process 70L 0L in if
+u: fuelTank at 32363.744023095882: DoneFuelTank
+u: fuelPump3 at 32378.210635758307: process 80L 435L in Else
+u: fuelPump2 at 32378.779612833587: process 85L 335L in Else
+u: fuelPump2 at 32389.118192212358: process 35L 300L in if
+u: fuelPump3 at 32395.961238517186: process 100L 225L in if
+u: fuelPump2 at 32405.73654051004: process 75L 185L in if
+u: fuelPump3 at 32407.592319748037: process 40L 125L in if
+u: fuelPump2 at 32414.71583100519: process 60L 120L in if
+u: fuelPump3 at 32416.587938316126: process 5L 75L in if
+u: fuelPump2 at 32426.290045689235: process 45L 15L in if
+u: fuelPump2 at 32431.70135801889: process 5L 10L in if
+u: fuelPump2 at 32431.70135801889: orderFuelTank
+u: fuelPump3 at 32433.352218874326: process 60L 10L in if
+u: fuelTank at 32731.70135801889: DoneFuelTank
+u: fuelPump3 at 32744.071628685084: process 45L 465L in Else
+u: fuelPump2 at 32746.001664580202: process 90L 385L in Else
+u: fuelPump2 at 32756.980105224757: process 60L 325L in if
+u: fuelPump3 at 32762.348055749586: process 80L 250L in if
+u: fuelPump2 at 32771.43659546153: process 75L 220L in if
+u: fuelPump3 at 32775.7659934724: process 30L 160L in if
+u: fuelPump2 at 32779.28613191229: process 60L 80L in if
+u: fuelPump2 at 32785.52304439497: process 10L 70L in if
+u: fuelPump3 at 32790.9887957552: process 80L 25L in if
+u: fuelPump3 at 32790.9887957552: orderFuelTank
+u: fuelPump2 at 32796.711734663455: process 45L 25L in if
+u: fuelTank at 33090.9887957552: DoneFuelTank
+u: fuelPump2 at 33100.313965683825: process 35L 530L in Else
+u: fuelPump3 at 33103.27100013543: process 35L 510L in Else
+u: fuelPump2 at 33107.971790346375: process 20L 430L in if
+u: fuelPump2 at 33116.108528746714: process 40L 390L in if
+u: fuelPump3 at 33119.17083882: process 80L 350L in if
+u: fuelPump2 at 33125.50619592757: process 40L 320L in if
+u: fuelPump3 at 33127.28455352785: process 30L 260L in if
+u: fuelPump2 at 33139.555710122506: process 60L 180L in if
+u: fuelPump3 at 33141.891516717005: process 80L 100L in if
+u: fuelPump3 at 33151.96556696965: process 20L 80L in if
+u: fuelPump2 at 33155.70564226892: process 80L 0L in if
+u: fuelPump2 at 33155.70564226892: orderFuelTank
+u: fuelPump3 at 33169.03762638077: process 80L 0L in if
+u: fuelTank at 33455.70564226892: DoneFuelTank
+u: fuelPump2 at 33466.59612145459: process 45L 515L in Else
+u: fuelPump3 at 33469.61126389791: process 40L 425L in Else
+u: fuelPump3 at 33478.30053462365: process 30L 395L in if
+u: fuelPump2 at 33481.44298454591: process 90L 365L in if
+u: fuelPump3 at 33488.48034183033: process 30L 270L in if
+u: fuelPump2 at 33493.24217712504: process 95L 240L in if
+u: fuelPump3 at 33497.26569188435: process 30L 165L in if
+u: fuelPump2 at 33504.89499753082: process 75L 140L in if
+u: fuelPump3 at 33508.479430856874: process 25L 105L in if
+u: fuelPump2 at 33515.5333335987: process 35L 60L in if
+u: fuelPump2 at 33515.5333335987: orderFuelTank
+u: fuelPump3 at 33522.5499786405: process 45L 60L in if
+u: fuelPump3 at 33532.14435918524: process 20L 40L in if
+u: fuelTank at 33815.5333335987: DoneFuelTank
+u: fuelPump3 at 33829.64119731758: process 60L 440L in Else
+u: fuelPump2 at 33830.87647889242: process 100L 420L in Else
+u: fuelPump3 at 33838.272921038595: process 20L 340L in if
+u: fuelPump2 at 33846.45446927183: process 80L 280L in if
+u: fuelPump3 at 33852.174663703234: process 60L 220L in if
+u: fuelPump2 at 33861.25161948039: process 60L 175L in if
+u: fuelPump3 at 33866.42698888881: process 45L 125L in if
+u: fuelPump2 at 33870.788713344074: process 50L 110L in if
+u: fuelPump3 at 33875.69751393158: process 15L 20L in if
+u: fuelPump3 at 33875.69751393158: orderFuelTank
+u: fuelPump2 at 33886.21515340831: process 90L 20L in if
+u: fuelTank at 34175.69751393158: DoneFuelTank
+u: fuelPump2 at 34185.71904155568: process 65L 485L in Else
+u: fuelPump3 at 34189.759100134164: process 50L 415L in Else
+u: fuelPump2 at 34199.52843899462: process 70L 385L in if
+u: fuelPump3 at 34201.82979046052: process 30L 315L in if
+u: fuelPump2 at 34209.651889703: process 70L 225L in if
+u: fuelPump2 at 34217.67138833239: process 10L 215L in if
+u: fuelPump3 at 34218.774147137956: process 90L 140L in if
+u: fuelPump3 at 34226.86371275482: process 5L 135L in if
+u: fuelPump2 at 34231.786781728464: process 75L 45L in if
+u: fuelPump2 at 34231.786781728464: orderFuelTank
+u: fuelPump3 at 34243.74803803133: process 90L 45L in if
+u: fuelPump3 at 34256.907652895745: process 45L 0L in if
+u: fuelTank at 34531.786781728464: DoneFuelTank
+u: fuelPump3 at 34542.74169290842: process 15L 505L in Else
+u: fuelPump2 at 34545.828177073636: process 80L 470L in Else
+u: fuelPump2 at 34554.882901296405: process 35L 435L in if
+u: fuelPump3 at 34555.49767960647: process 35L 430L in if
+u: fuelPump2 at 34561.25661083881: process 5L 335L in if
+u: fuelPump3 at 34574.92769084211: process 95L 255L in if
+u: fuelPump2 at 34577.12364547493: process 80L 180L in if
+u: fuelPump2 at 34590.317018259906: process 85L 95L in if
+u: fuelPump3 at 34591.66611765928: process 75L 85L in if
+u: fuelPump3 at 34591.66611765928: orderFuelTank
+u: fuelPump2 at 34597.002327010276: process 10L 85L in if
+u: fuelPump2 at 34606.42427152064: process 50L 35L in if
+u: fuelTank at 34891.66611765928: DoneFuelTank
+u: fuelPump2 at 34905.707882961266: process 55L 445L in Else
+u: fuelPump3 at 34907.17779000088: process 100L 430L in Else
+u: fuelPump2 at 34912.92314058236: process 15L 415L in if
+u: fuelPump3 at 34918.41692742869: process 15L 340L in if
+u: fuelPump2 at 34925.00326125546: process 75L 255L in if
+u: fuelPump3 at 34936.38339895237: process 85L 160L in if
+u: fuelPump2 at 34940.15905084963: process 95L 135L in if
+u: fuelPump3 at 34945.642755867055: process 25L 135L in if
+u: fuelPump3 at 34961.866018379624: process 80L 55L in if
+u: fuelPump3 at 34961.866018379624: orderFuelTank
+u: fuelTank at 35261.866018379624: DoneFuelTank
+u: fuelPump3 at 35279.5811908556: process 80L 520L in Else
+u: fuelPump3 at 35289.795935412345: process 40L 480L in if
+u: fuelPump3 at 35305.410960578425: process 80L 400L in if
+u: fuelPump3 at 35314.271907657676: process 25L 375L in if
+u: fuelPump3 at 35327.65524546326: process 85L 290L in if
+u: fuelPump3 at 35342.72865240931: process 65L 225L in if
+u: fuelPump3 at 35358.744146192614: process 75L 150L in if
+u: fuelPump3 at 35370.62426452511: process 40L 110L in if
+u: fuelPump3 at 35379.20301704017: process 20L 90L in if
+u: fuelPump3 at 35394.91709555293: process 80L 10L in if
+u: fuelPump3 at 35394.91709555293: orderFuelTank
+u: fuelTank at 35694.91709555293: DoneFuelTank
+u: fuelPump3 at 35705.30955719331: process 15L 585L in Else
+u: fuelPump3 at 35714.930374105126: process 40L 545L in if
+u: fuelPump3 at 35728.831007732726: process 75L 470L in if
+u: fuelPump3 at 35737.407226718606: process 30L 440L in if
+u: fuelTank at 35737.407226718606: DoneFuelTank
